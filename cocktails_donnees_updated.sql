@@ -1,0 +1,1 @@
+ALTER TABLE `cocktails` ADD COLUMN `flavor` VARCHAR(255);

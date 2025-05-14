@@ -1,0 +1,514 @@
+Début du debug
+Début du debug
+Données reçues : Array
+(
+    [type] => with-alcohol
+    [alcohols] => Array
+        (
+            [0] => vodka
+        )
+
+    [flavors] => Array
+        (
+            [0] => fruity
+        )
+
+)
+
+Connexion à la base de données réussie
+Type de recherche : with-alcohol
+Alcools : Array
+(
+    [0] => vodka
+)
+
+Saveurs : Array
+(
+    [0] => fruity
+)
+
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => vodka
+    [1] => %fruity%
+)
+
+Résultats trouvés : 0 cocktails
+Début du debug
+Données reçues : Array
+(
+    [type] => with-alcohol
+    [alcohols] => Array
+        (
+            [0] => vodka
+        )
+
+    [flavors] => Array
+        (
+            [0] => fruity
+        )
+
+)
+
+Connexion à la base de données réussie
+Type de recherche : with-alcohol
+Alcools : Array
+(
+    [0] => vodka
+)
+
+Saveurs : Array
+(
+    [0] => fruity
+)
+
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => vodka
+    [1] => %fruity%
+)
+
+Résultats trouvés : 0 cocktails
+Début du debug
+Données reçues : Array
+(
+    [type] => with-alcohol
+    [alcohols] => Array
+        (
+            [0] => rum
+        )
+
+    [flavors] => Array
+        (
+            [0] => sweet
+        )
+
+)
+
+Connexion à la base de données réussie
+Type de recherche : with-alcohol
+Alcools : Array
+(
+    [0] => rum
+)
+
+Saveurs : Array
+(
+    [0] => sweet
+)
+
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => rum
+    [1] => %sweet%
+)
+
+Résultats trouvés : 0 cocktails
+Début du debug
+Données reçues : Array
+(
+    [type] => with-alcohol
+    [alcohols] => Array
+        (
+            [0] => gin
+        )
+
+    [flavors] => Array
+        (
+            [0] => sweet
+        )
+
+)
+
+Connexion à la base de données réussie
+Type de recherche : with-alcohol
+Alcools : Array
+(
+    [0] => gin
+)
+
+Saveurs : Array
+(
+    [0] => sweet
+)
+
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %sweet%
+)
+
+Résultats trouvés : 0 cocktails
+Début du debug
+Données reçues : Array
+(
+    [type] => with-alcohol
+    [alcohols] => Array
+        (
+            [0] => gin
+        )
+
+    [flavors] => Array
+        (
+            [0] => fruity
+        )
+
+)
+
+Connexion à la base de données réussie
+Type de recherche : with-alcohol
+Alcools : Array
+(
+    [0] => gin
+)
+
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %fruity%
+)
+
+Résultats trouvés : 0 cocktails
+Début du debug
+Données reçues : Array
+(
+    [type] => with-alcohol
+    [alcohols] => Array
+        (
+            [0] => gin
+        )
+
+    [flavors] => Array
+        (
+            [0] => fruity
+        )
+
+)
+
+Connexion à la base de données réussie
+Type de recherche : with-alcohol
+Alcools : Array
+(
+    [0] => gin
+)
+
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %fruity%
+)
+
+Résultats trouvés : 0 cocktails
+Début du debug
+Données reçues : Array
+(
+    [type] => with-alcohol
+    [alcohols] => Array
+        (
+            [0] => gin
+        )
+
+    [flavors] => Array
+        (
+            [0] => fruity
+        )
+
+)
+
+Connexion à la base de données réussie
+Type de recherche : with-alcohol
+Alcools : Array
+(
+    [0] => gin
+)
+
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %fruity%
+)
+
+Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+Début du debug
+Données reçues : Array
+(
+    [type] => with-alcohol
+    [alcohols] => Array
+        (
+            [0] => gin
+        )
+
+    [flavors] => Array
+        (
+            [0] => fruity
+        )
+
+)
+
+Connexion à la base de données réussie
+Type de recherche : with-alcohol
+Alcools : Array
+(
+    [0] => gin
+)
+
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %fruity%
+)
+
+Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %fruity%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %fruity%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %fruity%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcoholic IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %fruity%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND alcohol IN (?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => gin
+    [1] => %Fruité%
+)
+
+Erreur SQL : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'alcohol' in 'where clause'
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND LOWER(alcoholic) LIKE LOWER(?) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %gin%
+    [1] => %Fruité%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %gin%
+    [1] => %Fruité%
+)
+
+Résultats trouvés : 122 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %vodka%
+    [1] => %Doux%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %vodka%
+)
+
+Résultats trouvés : 182 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %vodka%
+    [1] => %Acide%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %vodka%
+    [1] => %Fruité%
+)
+
+Résultats trouvés : 36 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %gin%
+    [1] => %Doux%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %gin%
+    [1] => %Doux%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %gin%
+    [1] => %Épicé%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %rum%
+)
+
+Résultats trouvés : 210 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %rum%
+    [1] => %Fruité%
+)
+
+Résultats trouvés : 48 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %rum%
+    [1] => %Acide%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %rum%
+    [1] => %Doux%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %tequila%
+    [1] => %Acide%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %tequila%
+    [1] => %Fruité%
+)
+
+Résultats trouvés : 22 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %tequila%
+)
+
+Résultats trouvés : 44 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (FIND_IN_SET(?, LOWER(flavor)) > 0 OR LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %gin%
+    [1] => Acide
+    [2] => %Acide%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (FIND_IN_SET(?, LOWER(flavor)) > 0 OR LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %gin%
+    [1] => Acide
+    [2] => %Acide%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (FIND_IN_SET(?, LOWER(flavor)) > 0 OR LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %vodka%
+    [1] => Épicé
+    [2] => %Épicé%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (FIND_IN_SET(?, LOWER(flavor)) > 0 OR LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => Épicé
+    [1] => %Épicé%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (FIND_IN_SET(?, LOWER(flavor)) > 0 OR LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => Fruité
+    [1] => %Fruité%
+)
+
+Résultats trouvés : 168 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (FIND_IN_SET(?, LOWER(flavor)) > 0 OR LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => Acide
+    [1] => %Acide%
+)
+
+Résultats trouvés : 186 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (FIND_IN_SET(?, LOWER(flavor)) > 0 OR LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => Doux
+    [1] => %Doux%
+)
+
+Résultats trouvés : 0 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic' AND (LOWER(ingredients) LIKE LOWER(?)) AND (FIND_IN_SET(?, LOWER(flavor)) > 0 OR LOWER(flavor) LIKE LOWER(?))
+PARAMS : Array
+(
+    [0] => %gin%
+    [1] => Fruité
+    [2] => %Fruité%
+)
+
+Résultats trouvés : 164 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic'
+PARAMS : Array
+(
+)
+
+Résultats trouvés : 1196 cocktails
+REQUÊTE SQL : SELECT * FROM cocktails WHERE 1=1 AND alcoholic = 'Alcoholic'
+PARAMS : Array
+(
+)
+
+Résultats trouvés : 1196 cocktails

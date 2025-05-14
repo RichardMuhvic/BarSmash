@@ -1,0 +1,838 @@
+id,name,category,alcoholic,instructions,ingredients
+101,A1,Cocktail,Alcoholic,"Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.","Gin, Grand Marnier, Lemon Juice, Grenadine"
+102,Ace,Cocktail,Alcoholic,"Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.","Gin, Grenadine, Heavy cream, Milk, Egg White"
+103,ABC,Shot,Alcoholic,"Layered in a shot glass.","Amaretto, Baileys irish cream, Cognac"
+104,ACID,Shot,Alcoholic,"Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.","151 proof rum, Wild Turkey"
+105,Adam,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Lemon juice, Grenadine"
+106,AT&T,"Ordinary Drink",Alcoholic,"Pour Vodka and Gin over ice, add Tonic and Stir","Absolut Vodka, Gin, Tonic water"
+107,"A. J.","Ordinary Drink",Alcoholic,"Shake ingredients with ice, strain into a cocktail glass, and serve.","Applejack, Grapefruit juice"
+108,Karsk,"Ordinary Drink",Alcoholic,"Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.","Coffee, Grain alcohol"
+109,Melya,"Coffee / Tea","Non alcoholic","Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.","Espresso, Honey, Cocoa powder"
+110,Casino,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.","Gin, Maraschino liqueur, Lemon juice, Orange bitters, Cherry"
+111,Affair,"Ordinary Drink",Alcoholic,"Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.","Strawberry schnapps, Orange juice, Cranberry juice, Club soda"
+112,Radler,"Ordinary Drink",Alcoholic,"Pour beer into large mug, slowly add the 7-up (or Sprite).","Beer, 7-Up"
+113,Paloma,Cocktail,Alcoholic,"Stir together and serve over ice.","Grape Soda, Tequila"
+114,Boxcar,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.","Gin, Triple sec, Lemon juice, Grenadine, Egg white"
+115,Mimosa,"Ordinary Drink",Alcoholic,"Ensure both ingredients are well chilled, then mix into the glass. Serve cold.","Champagne, Orange juice"
+116,Avalon,"Ordinary Drink",Alcoholic,"Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.","Vodka, Pisang Ambon, Apple juice, Lemon juice, Lemonade"
+117,Apello,"Other / Unknown","Non alcoholic","Stirr. Grnish with maraschino cherry.","Orange juice, Grapefruit juice, Apple juice, Maraschino cherry"
+118,Orgasm,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Creme de Cacao, Amaretto, Triple sec, Vodka, Light cream"
+119,Ipamena,"Ordinary Drink","Non alcoholic","Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime","Lime, Brown sugar, Passion fruit juice, Ginger ale, Ice"
+120,Zambeer,"Soft Drink",Alcoholic,"Mix sambuca with rootbeer and stir. Add ice","Sambuca, Root beer, Ice"
+121,Bramble,"Ordinary Drink",Alcoholic,"Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.","Gin, lemon juice, Sugar syrup, Creme de Mure"
+122,Sazerac,"Ordinary Drink",Alcoholic,"Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.","Ricard, Sugar, Peychaud bitters, Water, Bourbon, Lemon peel"
+123,Almeria,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Kahlua, Egg white"
+124,Addison,Cocktail,Alcoholic,"Shake together all the ingredients and strain into a cold glass.","Gin, Vermouth"
+125,Vampiro,"Ordinary Drink",Alcoholic,"Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.","Tequila, Tomato Juice, Orange Juice, Lime Juice, Sugar Syrup, Salt"
+126,ABC,Shot,Alcoholic,"Layered in a shot glass.","Amaretto, Baileys irish cream, Cognac"
+127,B-53,Shot,Alcoholic,"Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52","Kahlua, Sambuca, Grand Marnier"
+128,B-52,Shot,Alcoholic,"Layer ingredients into a shot glass. Serve with a stirrer.","Baileys irish cream, Grand Marnier, Kahlua"
+129,Derby,"Ordinary Drink",Alcoholic,"Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.","gin, Peach Bitters, Mint"
+130,Bijou,Cocktail,Alcoholic,"Stir in mixing glass with ice and strain
+","Orange Bitters, Green Chartreuse, Gin, Sweet Vermouth"
+131,Zombie,Cocktail,Alcoholic,"Blend at high speed for no more than 5 seconds.
+
+Pour into a glass, add ice cubes to fill, then add the garnish.
+
+*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
+
+Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
+
+Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.","Rum, Gold rum, 151 proof rum, Pernod, Grenadine, Lime Juice, Angostura Bitters"
+132,Boxcar,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.","Gin, Triple sec, Lemon juice, Grenadine, Egg white"
+133,Abilene,"Ordinary Drink",Alcoholic,"Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.","Dark rum, Peach nectar, Orange juice"
+134,Zambeer,"Soft Drink",Alcoholic,"Mix sambuca with rootbeer and stir. Add ice","Sambuca, Root beer, Ice"
+135,Bramble,"Ordinary Drink",Alcoholic,"Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.","Gin, lemon juice, Sugar syrup, Creme de Mure"
+136,"Big Red",Shot,Alcoholic,"Pour ingredients into 1 ounce shot glass","Irish cream, Goldschlager"
+137,Bellini,"Ordinary Drink",Alcoholic,"Pour peach purée into chilled flute, add sparkling wine. Stir gently.","Champagne, Peach schnapps"
+138,Brooklyn,Cocktail,Alcoholic,"Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.","Rye Whiskey, Dry Vermouth, Maraschino Liqueur, Angostura Bitters, Maraschino Cherry"
+139,Balmoral,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Scotch, Sweet Vermouth, Dry Vermouth, Bitters"
+140,Snowball,"Ordinary Drink",Alcoholic,"Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.","Advocaat, Lemonade, Lemon, Ice"
+141,Danbooka,"Coffee / Tea",Alcoholic,"pour it in and mix it.","Coffee, Everclear"
+142,Bluebird,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.","Gin, Triple sec, Blue Curacao, Bitters, Maraschino cherry, Lemon peel"
+143,"501 Blue","Ordinary Drink",Alcoholic,"Mix equal amounts into a glass with ice.","Blue Curacao, Blueberry schnapps, Vodka, Sour mix, 7-Up"
+144,"Pegu Club",Cocktail,Alcoholic,"Shake, strain, up, cocktail glass","Gin, Orange Curacao, Lime Juice, Angostura Bitters, Orange Bitters"
+145,"Old Cuban",Cocktail,Alcoholic,"Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.","White Rum, Sugar Syrup, Lime Juice, Angostura Bitters, Prosecco"
+146,Boomerang,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur. Stir well. Strain into a cocktail glass and garnish with the cherry.","Gin, Dry Vermouth, Bitters, Maraschino liqueur, Maraschino cherry"
+147,Barracuda,"Ordinary Drink",Alcoholic,"Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.","Rum, Galliano, Pineapple Juice, Lime Juice, Prosecco"
+148,"Bora Bora",Cocktail,"Non alcoholic","Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.","Pineapple juice, Passion fruit juice, Lemon juice, Grenadine"
+149,"Lunch Box",Beer,Alcoholic,"Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.","Beer, Amaretto, Orange juice"
+150,Jitterbug,Cocktail,Alcoholic,"Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!","Gin, Vodka, Grenadine, Lime juice, Sugar, Sugar syrup, Soda water"
+151,Ace,Cocktail,Alcoholic,"Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.","Gin, Grenadine, Heavy cream, Milk, Egg White"
+152,ABC,Shot,Alcoholic,"Layered in a shot glass.","Amaretto, Baileys irish cream, Cognac"
+153,ACID,Shot,Alcoholic,"Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.","151 proof rum, Wild Turkey"
+154,Boxcar,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.","Gin, Triple sec, Lemon juice, Grenadine, Egg white"
+155,Casino,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.","Gin, Maraschino liqueur, Lemon juice, Orange bitters, Cherry"
+156,Victor,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Sweet Vermouth, Brandy"
+157,Scooter,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.","Brandy, Amaretto, Light cream"
+158,Sidecar,"Ordinary Drink",Alcoholic,"Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.","Cognac, Cointreau, Lemon juice"
+159,Sazerac,"Ordinary Drink",Alcoholic,"Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.","Ricard, Sugar, Peychaud bitters, Water, Bourbon, Lemon peel"
+160,Acapulco,"Ordinary Drink",Alcoholic,"Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.","Light rum, Triple sec, Lime juice, Sugar, Egg white, Mint"
+161,"Ice Pick","Ordinary Drink",Alcoholic,"Put Vodka in glass fill with iced tea. Stir in lemon to taste.","Vodka, Iced tea, Lemon juice"
+162,Applecar,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Applejack, Triple sec, Lemon juice"
+163,"Spice 75",Cocktail,Alcoholic,"Gently warm 60g golden caster sugar in a pan with 30ml water and 1 tbsp allspice. Cook gently until the sugar has dissolved, then leave the mixture to cool. Strain through a sieve lined with a coffee filter (or a double layer of kitchen paper).
+
+Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90ml lime juice. Shake with ice and strain between six flute glasses. Top up with 600ml champagne and garnish each with an orange twist.","Sugar, Allspice, Rum, Lime Juice, Champagne, Orange spiral"
+164,Godchild,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.","Vodka, Amaretto, Heavy cream"
+165,Buccaneer,Beer,Alcoholic,"Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently","Corona, Bacardi Limon"
+166,Applejack,Cocktail,Alcoholic,"Add all ingredients into mixing glass, chill and strain into cocktail glass","Jack Daniels, Midori melon liqueur, Sour mix"
+167,"Old Cuban",Cocktail,Alcoholic,"Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.","White Rum, Sugar Syrup, Lime Juice, Angostura Bitters, Prosecco"
+168,Americano,"Ordinary Drink",Alcoholic,"Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.","Campari, Sweet Vermouth, Lemon peel, Orange peel"
+169,"Pegu Club",Cocktail,Alcoholic,"Shake, strain, up, cocktail glass","Gin, Orange Curacao, Lime Juice, Angostura Bitters, Orange Bitters"
+170,Barracuda,"Ordinary Drink",Alcoholic,"Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.","Rum, Galliano, Pineapple Juice, Lime Juice, Prosecco"
+171,"French 75","Ordinary Drink",Alcoholic,"Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.","Gin, Sugar, Lemon juice, Champagne, Orange, Maraschino cherry"
+172,"Egg Cream","Other / Unknown","Non alcoholic","Mix syrup and milk in a fountain glass. Add soda water, serve with a straw.","Chocolate syrup, Milk, Soda water"
+173,Michelada,Cocktail,Alcoholic,"Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.
+Served In a chilled, salt-rimmed glass
+","Beer, Tomato Juice, Lime Juice, Hot Sauce, Worcestershire Sauce, Soy Sauce"
+174,Avalanche,Shake,Alcoholic,"Mix in highball glass over ice, shake well.","Crown Royal, Kahlua, Cream"
+175,"Rum Punch","Punch / Party Drink",Alcoholic,"Mix all ingredients in a punch bowl and serve.","Rum, Ginger ale, Fruit punch, Orange juice, Ice"
+176,H.D.,"Coffee / Tea",Alcoholic,"Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.","Whisky, Baileys irish cream, Coffee"
+177,ACID,Shot,Alcoholic,"Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.","151 proof rum, Wild Turkey"
+178,Adam,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Lemon juice, Grenadine"
+179,Derby,"Ordinary Drink",Alcoholic,"Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.","gin, Peach Bitters, Mint"
+180,Diesel,Beer,Alcoholic,"Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.","Lager, Cider, Blackcurrant cordial"
+181,Radler,"Ordinary Drink",Alcoholic,"Pour beer into large mug, slowly add the 7-up (or Sprite).","Beer, 7-Up"
+182,Snowday,Cocktail,Alcoholic,"Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.","Vodka, Amaro Montenegro, Ruby Port, Blood Orange, Angostura Bitters, Orange Peel"
+183,Limeade,"Other / Unknown","Non alcoholic","In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.","Lime, Sugar, Soda water, Lime peel"
+184,Sidecar,"Ordinary Drink",Alcoholic,"Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.","Cognac, Cointreau, Lemon juice"
+185,Addison,Cocktail,Alcoholic,"Shake together all the ingredients and strain into a cold glass.","Gin, Vermouth"
+186,"Old Pal",Cocktail,Alcoholic,"Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.","Rye whiskey, Campari, Dry Vermouth"
+187,"Big Red",Shot,Alcoholic,"Pour ingredients into 1 ounce shot glass","Irish cream, Goldschlager"
+188,Daiquiri,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.","Light rum, Lime, Powdered sugar"
+189,Paradise,"Ordinary Drink",Alcoholic,"Shake together over ice. Strain into cocktail glass and serve chilled.","Gin, Apricot Brandy, Orange Juice"
+190,Bluebird,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.","Gin, Triple sec, Blue Curacao, Bitters, Maraschino cherry, Lemon peel"
+191,Danbooka,"Coffee / Tea",Alcoholic,"pour it in and mix it.","Coffee, Everclear"
+192,Godchild,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.","Vodka, Amaretto, Heavy cream"
+193,"Salty Dog","Ordinary Drink",Alcoholic,"Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)","Grapefruit juice, Gin, Salt"
+194,Orangeade,Cocktail,"Non alcoholic","Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.","Lemon juice, Orange juice, Sugar syrup, Soda water"
+195,Alexander,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.","Gin, Creme de Cacao, Light cream, Nutmeg"
+196,Addington,Cocktail,Alcoholic,"Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. ","Sweet Vermouth, Dry Vermouth, Soda Water"
+197,"Old Cuban",Cocktail,Alcoholic,"Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.","White Rum, Sugar Syrup, Lime Juice, Angostura Bitters, Prosecco"
+198,"Rum Toddy","Ordinary Drink",Alcoholic,"Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.","Rum, Powdered sugar, Lemon peel, Water"
+199,Barracuda,"Ordinary Drink",Alcoholic,"Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.","Rum, Galliano, Pineapple Juice, Lime Juice, Prosecco"
+200,"Jam Donut",Shot,Alcoholic,"Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.","Baileys irish cream, Chambord raspberry liqueur, Sugar syrup, Sugar"
+201,Ace,Cocktail,Alcoholic,"Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.","Gin, Grenadine, Heavy cream, Milk, Egg White"
+202,Rose,"Ordinary Drink",Alcoholic,"Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.","Dry Vermouth, Gin, Apricot brandy, Lemon juice, Grenadine, Powdered sugar"
+203,Melya,"Coffee / Tea","Non alcoholic","Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.","Espresso, Honey, Cocoa powder"
+204,Derby,"Ordinary Drink",Alcoholic,"Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.","gin, Peach Bitters, Mint"
+205,Radler,"Ordinary Drink",Alcoholic,"Pour beer into large mug, slowly add the 7-up (or Sprite).","Beer, 7-Up"
+206,Zombie,Cocktail,Alcoholic,"Blend at high speed for no more than 5 seconds.
+
+Pour into a glass, add ice cubes to fill, then add the garnish.
+
+*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
+
+Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
+
+Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.","Rum, Gold rum, 151 proof rum, Pernod, Grenadine, Lime Juice, Angostura Bitters"
+207,Diesel,Beer,Alcoholic,"Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.","Lager, Cider, Blackcurrant cordial"
+208,Zinger,"Soft Drink",Alcoholic,"Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.","Peachtree schnapps, Surge"
+209,Frosé,Cocktail,Alcoholic,"Step 1
+Pour rosé into a 13x9" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.
+
+Step 2
+Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.
+
+Step 3
+Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.
+
+Step 4
+Blend again until frosé is slushy. Divide among glasses.
+
+Step 5
+Do Ahead: Rosé can be frozen 1 week ahead.","Rose, Sugar, Strawberries, Lemon Juice"
+210,Zoksel,"Soft Drink",Alcoholic,"No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.","Beer, Root beer, Lemonade, Coca-Cola, 7-Up, Creme de Cassis, Lemon"
+211,Vesper,Cocktail,Alcoholic,"Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.","Gin, Vodka, Lillet Blanc"
+212,Gimlet,Cocktail,Alcoholic,"Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.","Gin, Lime Juice, Sugar Syrup, Lime"
+213,Apello,"Other / Unknown","Non alcoholic","Stirr. Grnish with maraschino cherry.","Orange juice, Grapefruit juice, Apple juice, Maraschino cherry"
+214,Sazerac,"Ordinary Drink",Alcoholic,"Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.","Ricard, Sugar, Peychaud bitters, Water, Bourbon, Lemon peel"
+215,Veteran,"Ordinary Drink",Alcoholic,"Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.","Dark rum, Cherry brandy"
+216,Stinger,"Ordinary Drink",Alcoholic,"Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.","Brandy, White Creme de Menthe"
+217,Ipamena,"Ordinary Drink","Non alcoholic","Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime","Lime, Brown sugar, Passion fruit juice, Ginger ale, Ice"
+218,Bellini,"Ordinary Drink",Alcoholic,"Pour peach purée into chilled flute, add sparkling wine. Stir gently.","Champagne, Peach schnapps"
+219,Bramble,"Ordinary Drink",Alcoholic,"Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.","Gin, lemon juice, Sugar syrup, Creme de Mure"
+220,Scooter,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.","Brandy, Amaretto, Light cream"
+221,Almeria,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Kahlua, Egg white"
+222,Vesuvio,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.","Light rum, Sweet Vermouth, Lemon, Powdered sugar, Egg white"
+223,Sidecar,"Ordinary Drink",Alcoholic,"Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.","Cognac, Cointreau, Lemon juice"
+224,Limeade,"Other / Unknown","Non alcoholic","In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.","Lime, Sugar, Soda water, Lime peel"
+225,Zambeer,"Soft Drink",Alcoholic,"Mix sambuca with rootbeer and stir. Add ice","Sambuca, Root beer, Ice"
+226,Frosé,Cocktail,Alcoholic,"Step 1
+Pour rosé into a 13x9" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.
+
+Step 2
+Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.
+
+Step 3
+Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.
+
+Step 4
+Blend again until frosé is slushy. Divide among glasses.
+
+Step 5
+Do Ahead: Rosé can be frozen 1 week ahead.","Rose, Sugar, Strawberries, Lemon Juice"
+227,Affair,"Ordinary Drink",Alcoholic,"Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.","Strawberry schnapps, Orange juice, Cranberry juice, Club soda"
+228,Frappé,"Coffee / Tea","Non alcoholic","Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw. Notes: This works best if everything is cold (if you make fresh coffee, mix it with the milk and let it sit in the fridge for 1/2 hour. If it is not frothy, add more milk, or even just some more milk powder. The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1/2 hour, with more iced coffee continually appearing at the bottom. Very refreshing.","Coffee, Milk, Sugar"
+229,Affinity,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Scotch, Sweet Vermouth, Dry Vermouth, Orange bitters"
+230,"Gin Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.","Gin, Lemon, Powdered sugar, Carbonated water"
+231,"After sex","Ordinary Drink",Alcoholic,"Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar","Vodka, Creme de Banane, Orange juice"
+232,Downshift,"Punch / Party Drink",Alcoholic,"Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.","Fruit punch, Sprite, Tequila, 151 proof rum"
+233,Dragonfly,"Ordinary Drink",Alcoholic,"In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.","Gin, Ginger ale, Lime"
+234,"French 75","Ordinary Drink",Alcoholic,"Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.","Gin, Sugar, Lemon juice, Champagne, Orange, Maraschino cherry"
+235,Autodafé,"Ordinary Drink",Alcoholic,"Mix and fill up with soda water. Drunk by finns on a sunny day any time of the year and day.","Vodka, Lime juice, Soda water"
+236,"Foxy Lady","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Amaretto, Creme de Cacao, Light cream"
+237,Afterglow,Cocktail,"Non alcoholic","Mix. Serve over ice.","Grenadine, Orange juice, Pineapple juice"
+238,Godfather,"Ordinary Drink",Alcoholic,"Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.","Scotch, Amaretto"
+239,Afternoon,"Coffee / Tea",Alcoholic,"Build into a suiting glass, with no ice. Cream on top if wanted. Served directly.","Kahlua, Baileys irish cream, Frangelico, Coffee, Cream"
+240,"Cafe Savoy","Coffee / Tea",Alcoholic,"Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.","Coffee, Milk, Triple sec, Brandy"
+241,"Vodka Fizz","Other / Unknown",Alcoholic,"Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.","Vodka, Half-and-half, Limeade, Ice, Nutmeg"
+242,"After Five",Shot,Alcoholic,"1. Pour Kahlua into shot glass to about 1/2 full. 2. Using a spoon(inverted), slowly pour in the Peppermint Schnapps until glass is about 3/4 full. Done correctly, the Schnapps will flow under the Kahlua for a clear layer. 3. Again using a spoon, but this time right side up, slowly top off the glass with a layer of Bailey's. Be careful to place the spoon right at the top of the Kahlua layer and to raise it as the glass fills up. Done correctly, this will provide a layer of Bailey's floating over the Kahlua. 4. Toss it down all at once for something like a Peppermint Pattie, WITH A BANG!!! NOTE: Best if all ingredients are chilled","Peppermint schnapps, Kahlua, Baileys irish cream"
+243,"Angel Face","Ordinary Drink",Alcoholic,"Shake all ingredients with ice and strain contents into a cocktail glass.","Apricot brandy, Apple brandy, Gin"
+244,"Quick F**K",Shot,Alcoholic,"In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream","Kahlua, Midori melon liqueur, Baileys irish cream"
+245,"Brain Fart","Punch / Party Drink",Alcoholic,"Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda's are very cold.","Everclear, Vodka, Mountain Dew, Surge, Lemon juice, Rum"
+246,"Porto flip","Ordinary Drink",Alcoholic,"Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.","Brandy, Port, Egg Yolk"
+247,"Royal Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.","Gin, Sweet and sour, Egg, Coca-Cola"
+248,"Frisco Sour","Ordinary Drink",Alcoholic,"Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.","Blended whiskey, Benedictine, Lemon, Lime, Lemon, Lime"
+249,"Arctic Fish","Punch / Party Drink",Alcoholic,"Fill glass with ice and fish, add vodka, grape soda and orange juice. DO NOT STIR!!!!! Serve well chilled.","Vodka, Grape soda, Orange juice, Ice, Candy"
+250,"Fruit Shake","Other / Unknown","Non alcoholic","Blend til smooth.","Yoghurt, Banana, Orange juice, Fruit, Ice"
+251,GG,"Ordinary Drink","Optional alcohol","Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger ale and thats all there is to it. You now have a your very own GG.","Galliano, Ginger ale, Ice"
+252,Zinger,"Soft Drink",Alcoholic,"Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.","Peachtree schnapps, Surge"
+253,Orgasm,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Creme de Cacao, Amaretto, Triple sec, Vodka, Light cream"
+254,Gimlet,Cocktail,Alcoholic,"Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.","Gin, Lime Juice, Sugar Syrup, Lime"
+255,Negroni,"Ordinary Drink",Alcoholic,"Stir into glass over ice, garnish and serve.","Gin, Campari, Sweet Vermouth"
+256,"Big Red",Shot,Alcoholic,"Pour ingredients into 1 ounce shot glass","Irish cream, Goldschlager"
+257,Stinger,"Ordinary Drink",Alcoholic,"Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.","Brandy, White Creme de Menthe"
+258,Sangria,"Punch / Party Drink",Alcoholic,"Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.","Red wine, Sugar, Orange juice, Lemon juice, Cloves, Cinnamon"
+259,"410 Gone","Ordinary Drink",Alcoholic,"Mix together and enjoy!","Peach Vodka, Coca-Cola"
+260,Godchild,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.","Vodka, Amaretto, Heavy cream"
+261,"Pink Gin","Ordinary Drink",Alcoholic,"Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.","Bitters, Gin"
+262,Shot-gun,Shot,Alcoholic,"Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.","Jim Beam, Jack Daniels, Wild Turkey"
+263,"Gin Sour","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.","Gin, Lemon juice, Sugar, Orange, Maraschino cherry"
+264,"Gin Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.","Gin, Lemon, Powdered sugar, Carbonated water"
+265,Algonquin,"Ordinary Drink",Alcoholic,"Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.","Blended whiskey, Dry Vermouth, Pineapple juice"
+266,Allegheny,"Ordinary Drink",Alcoholic,"Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.","Dry Vermouth, Bourbon, Blackberry brandy, Lemon juice, Lemon peel"
+267,Jitterbug,Cocktail,Alcoholic,"Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!","Gin, Vodka, Grenadine, Lime juice, Sugar, Sugar syrup, Soda water"
+268,Afterglow,Cocktail,"Non alcoholic","Mix. Serve over ice.","Grenadine, Orange juice, Pineapple juice"
+269,Boomerang,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine the gin, vermouth, bitters, and maraschino liqueur. Stir well. Strain into a cocktail glass and garnish with the cherry.","Gin, Dry Vermouth, Bitters, Maraschino liqueur, Maraschino cherry"
+270,Greyhound,Cocktail,Alcoholic,"Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+","Vodka, Grapefruit Juice"
+271,"Salty Dog","Ordinary Drink",Alcoholic,"Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)","Grapefruit juice, Gin, Salt"
+272,Dragonfly,"Ordinary Drink",Alcoholic,"In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.","Gin, Ginger ale, Lime"
+273,Orangeade,Cocktail,"Non alcoholic","Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.","Lemon juice, Orange juice, Sugar syrup, Soda water"
+274,"Pegu Club",Cocktail,Alcoholic,"Shake, strain, up, cocktail glass","Gin, Orange Curacao, Lime Juice, Angostura Bitters, Orange Bitters"
+275,Addington,Cocktail,Alcoholic,"Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. ","Sweet Vermouth, Dry Vermouth, Soda Water"
+276,H.D.,"Coffee / Tea",Alcoholic,"Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.","Whisky, Baileys irish cream, Coffee"
+277,Shot-gun,Shot,Alcoholic,"Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.","Jim Beam, Jack Daniels, Wild Turkey"
+278,Godchild,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.","Vodka, Amaretto, Heavy cream"
+279,Thriller,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Scotch, Wine, Orange juice"
+280,"Lunch Box",Beer,Alcoholic,"Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.","Beer, Amaretto, Orange juice"
+281,Gluehwein,"Punch / Party Drink","Optional alcohol","Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.","Red wine, Water, Sugar, Cinnamon, Cloves, Lemon peel"
+282,Manhattan,Cocktail,Alcoholic,"Stirred over ice, strained into a chilled glass, garnished, and served up.","Sweet Vermouth, Bourbon, Angostura bitters, Ice, Maraschino cherry, Orange peel"
+283,Allegheny,"Ordinary Drink",Alcoholic,"Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.","Dry Vermouth, Bourbon, Blackberry brandy, Lemon juice, Lemon peel"
+284,Avalanche,Shake,Alcoholic,"Mix in highball glass over ice, shake well.","Crown Royal, Kahlua, Cream"
+285,"Rum Punch","Punch / Party Drink",Alcoholic,"Mix all ingredients in a punch bowl and serve.","Rum, Ginger ale, Fruit punch, Orange juice, Ice"
+286,"The Galah",Cocktail,Alcoholic,"Mix together the alcoholic portions and top with Pineapple and Lime juice.","Dark Rum, Campari, Creme De Banane, Pineapple Juice, Lime Juice"
+287,"French 75","Ordinary Drink",Alcoholic,"Combine gin, sugar, and lemon juice in a cocktail shaker filled with ice. Shake vigorously and strain into a chilled champagne glass. Top up with Champagne. Stir gently.","Gin, Sugar, Lemon juice, Champagne, Orange, Maraschino cherry"
+288,"Honey Bee",Cocktail,Alcoholic,"Shake ingredients with crushed ice
+","White Rum, Honey, Lemon Juice"
+289,"Hot Toddy",Cocktail,Alcoholic,"STEP 1
+Whisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.
+
+STEP 2
+Add a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.","Whiskey, Honey, Cinnamon, lemon, Cloves"
+290,"Gin Smash","Ordinary Drink",Alcoholic,"Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.","Gin, Carbonated water, Sugar, Mint, Orange, Cherry"
+291,Godfather,"Ordinary Drink",Alcoholic,"Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.","Scotch, Amaretto"
+292,Godmother,"Ordinary Drink",Alcoholic,"Pour vodka and amaretto into an old-fashioned glass over ice and serve.","Vodka, Amaretto"
+293,Michelada,Cocktail,Alcoholic,"Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.
+Served In a chilled, salt-rimmed glass
+","Beer, Tomato Juice, Lime Juice, Hot Sauce, Worcestershire Sauce, Soy Sauce"
+294,Greyhound,Cocktail,Alcoholic,"Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+","Vodka, Grapefruit Juice"
+295,Downshift,"Punch / Party Drink",Alcoholic,"Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.","Fruit punch, Sprite, Tequila, 151 proof rum"
+296,Archbishop,"Ordinary Drink",Alcoholic,"In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.","Gin, Wine, Benedictine, Lime"
+297,Jackhammer,"Ordinary Drink",Alcoholic,"Serve over ice- Warning,Deadly!","Jack Daniels, Amaretto"
+298,"Wine Punch","Punch / Party Drink",Alcoholic,"Combine all of the ingredients and pour over a block of ice.","Red wine, Lemon, Orange juice, Orange, Pineapple juice"
+299,Zipperhead,Shot,Alcoholic,"Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top).","Chambord raspberry liqueur, Vodka, Soda water"
+300,"White Lady","Ordinary Drink",Alcoholic,"Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.","Gin, Triple Sec, Lemon Juice"
+301,Kir,"Ordinary Drink",Alcoholic,"Add the crème de cassis to the bottom of the glass, then top up with wine.","Creme de Cassis, Champagne"
+302,ACID,Shot,Alcoholic,"Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.","151 proof rum, Wild Turkey"
+303,Bijou,Cocktail,Alcoholic,"Stir in mixing glass with ice and strain
+","Orange Bitters, Green Chartreuse, Gin, Sweet Vermouth"
+304,Mojito,Cocktail,Alcoholic,"Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.","Light rum, Lime, Sugar, Mint, Soda water"
+305,Mimosa,"Ordinary Drink",Alcoholic,"Ensure both ingredients are well chilled, then mix into the glass. Serve cold.","Champagne, Orange juice"
+306,Gimlet,Cocktail,Alcoholic,"Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.","Gin, Lime Juice, Sugar Syrup, Lime"
+307,Zombie,Cocktail,Alcoholic,"Blend at high speed for no more than 5 seconds.
+
+Pour into a glass, add ice cubes to fill, then add the garnish.
+
+*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
+
+Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
+
+Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.","Rum, Gold rum, 151 proof rum, Pernod, Grenadine, Lime Juice, Angostura Bitters"
+308,Casino,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.","Gin, Maraschino liqueur, Lemon juice, Orange bitters, Cherry"
+309,Zinger,"Soft Drink",Alcoholic,"Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.","Peachtree schnapps, Surge"
+310,Victor,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Sweet Vermouth, Brandy"
+311,Affair,"Ordinary Drink",Alcoholic,"Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.","Strawberry schnapps, Orange juice, Cranberry juice, Club soda"
+312,Spritz,"Ordinary Drink",Alcoholic,"Build into glass over ice, garnish and serve.","Prosecco, Campari, Soda Water"
+313,Diesel,Beer,Alcoholic,"Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.","Lager, Cider, Blackcurrant cordial"
+314,"Mai Tai","Ordinary Drink",Alcoholic,"Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.","Light rum, Orgeat syrup, Triple sec, Sweet and sour, Cherry"
+315,"Big Red",Shot,Alcoholic,"Pour ingredients into 1 ounce shot glass","Irish cream, Goldschlager"
+316,Bellini,"Ordinary Drink",Alcoholic,"Pour peach purée into chilled flute, add sparkling wine. Stir gently.","Champagne, Peach schnapps"
+317,Sidecar,"Ordinary Drink",Alcoholic,"Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.","Cognac, Cointreau, Lemon juice"
+318,Almeria,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Kahlua, Egg white"
+319,Vampiro,"Ordinary Drink",Alcoholic,"Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.","Tequila, Tomato Juice, Orange Juice, Lime Juice, Sugar Syrup, Salt"
+320,Abilene,"Ordinary Drink",Alcoholic,"Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.","Dark rum, Peach nectar, Orange juice"
+321,Addison,Cocktail,Alcoholic,"Shake together all the ingredients and strain into a cold glass.","Gin, Vermouth"
+322,Vesuvio,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.","Light rum, Sweet Vermouth, Lemon, Powdered sugar, Egg white"
+323,Limeade,"Other / Unknown","Non alcoholic","In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.","Lime, Sugar, Soda water, Lime peel"
+324,Ipamena,"Ordinary Drink","Non alcoholic","Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime","Lime, Brown sugar, Passion fruit juice, Ginger ale, Ice"
+325,Stinger,"Ordinary Drink",Alcoholic,"Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.","Brandy, White Creme de Menthe"
+326,Bijou,Cocktail,Alcoholic,"Stir in mixing glass with ice and strain
+","Orange Bitters, Green Chartreuse, Gin, Sweet Vermouth"
+327,"A. J.","Ordinary Drink",Alcoholic,"Shake ingredients with ice, strain into a cocktail glass, and serve.","Applejack, Grapefruit juice"
+328,Mojito,Cocktail,Alcoholic,"Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.","Light rum, Lime, Sugar, Mint, Soda water"
+329,Jitterbug,Cocktail,Alcoholic,"Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!","Gin, Vodka, Grenadine, Lime juice, Sugar, Sugar syrup, Soda water"
+330,Applejack,Cocktail,Alcoholic,"Add all ingredients into mixing glass, chill and strain into cocktail glass","Jack Daniels, Midori melon liqueur, Sour mix"
+331,"Jam Donut",Shot,Alcoholic,"Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.","Baileys irish cream, Chambord raspberry liqueur, Sugar syrup, Sugar"
+332,"Almond Joy","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Amaretto, Creme de Cacao, Light cream"
+333,"Jelly Bean",Shot,Alcoholic,"mix equal parts in pony glass-tastes just like a jelly bean!","Blackberry brandy, Anis"
+334,Jackhammer,"Ordinary Drink",Alcoholic,"Serve over ice- Warning,Deadly!","Jack Daniels, Amaretto"
+335,"Mint Julep","Ordinary Drink",Alcoholic,"In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.","Mint, Bourbon, Powdered sugar, Water"
+336,Lemouroudji,"Other / Unknown","Non alcoholic","Juice the lemons. Peel and grate the ginger. Place the grated ginger and a liberal dash of the cayenne pepper into a piece of cheesecloth, and tie it into a knot. Let soak in the water. After 15 minutes or so, add the sugar, and the lemon juice. Chill, and serve.","Ginger, Water, Lemon, Sugar, Cayenne pepper"
+337,"Jello shots",Shot,Alcoholic,"Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...","Vodka, Jello, Water"
+338,"John Collins","Ordinary Drink",Alcoholic,"Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.","Bourbon, Lemon juice, Sugar, Club soda, Maraschino cherry, Orange"
+339,"Jamaica Kiss",Shake,Alcoholic,"Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican light rum. Fill the tumbler with milk. Blend until smooth and serve immediately.","Coffee liqueur, Light rum, Ice, Milk"
+340,"Mojito Extra",Cocktail,Alcoholic,"Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura.","Mint, Lemon juice, Dark rum, Club soda, Angostura bitters"
+341,"Mango Mojito",Cocktail,Alcoholic,"Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
+Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
+Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.","Lime, Mango, Mint, White Rum, Ice, Soda Water, Mango"
+342,"Japanese Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.","Blended whiskey, Lemon, Powdered sugar, Port, Egg white, Carbonated water"
+343,"Just a Moonmint",Shake,"Non alcoholic","Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.","Milk, Chocolate syrup, Mint syrup"
+344,"Jamaican Coffee","Coffee / Tea",Alcoholic,"Stir the rum, coffee and water together. Top with the whipped cream. Sprinkle with a pinch of well ground coffee and drink with a straw.","Rum, Coffee, Water, Whipped cream"
+345,"Raspberry Julep",Cocktail,Alcoholic,"Softly muddle the mint leaves and raspberry syrup in the bottom of the cup. Add crushed ice and Bourbon to the cup and then stir. Top with more ice, garnish with a mint sprig.","Bourbon, Raspberry syrup, Mint"
+346,"The Jimmy Conway",Cocktail,Alcoholic,"Fill glass with ice
+Pour in The Irishman and Disaronno
+Fill to the top with Cranberry Juice
+Garnish with a slice of lemon…Enjoy!","Irish Whiskey, Amaretto, Cranberry Juice"
+347,"Blueberry Mojito",Cocktail,Alcoholic,"Muddle the blueberries with the other ingredients and serve in a highball glass. Garnish with mint and a half slice of lime.","Dark Rum, Lime Juice, Sugar, Blueberries, Lemon-lime soda"
+348,"Jewel Of The Nile","Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Gin, Green Chartreuse, Yellow Chartreuse"
+349,"Jack Rose Cocktail","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Apple brandy, Grenadine, Lime"
+350,"Jack's Vanilla Coke","Other / Unknown",Alcoholic,"After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.","Ice, Tennessee whiskey, Vanilla extract, Coca-Cola"
+351,Kir,"Ordinary Drink",Alcoholic,"Add the crème de cassis to the bottom of the glass, then top up with wine.","Creme de Cassis, Champagne"
+352,Karsk,"Ordinary Drink",Alcoholic,"Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.","Coffee, Grain alcohol"
+353,Zoksel,"Soft Drink",Alcoholic,"No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.","Beer, Root beer, Lemonade, Coca-Cola, 7-Up, Creme de Cassis, Lemon"
+354,Brooklyn,Cocktail,Alcoholic,"Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.","Rye Whiskey, Dry Vermouth, Maraschino Liqueur, Angostura Bitters, Maraschino Cherry"
+355,"Ice Pick","Ordinary Drink",Alcoholic,"Put Vodka in glass fill with iced tea. Stir in lemon to taste.","Vodka, Iced tea, Lemon juice"
+356,"Pink Gin","Ordinary Drink",Alcoholic,"Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.","Bitters, Gin"
+357,Danbooka,"Coffee / Tea",Alcoholic,"pour it in and mix it.","Coffee, Everclear"
+358,Kamikaze,"Ordinary Drink",Alcoholic,"Shake all ingredients together with ice. Strain into glass, garnish and serve.","Vodka, Triple sec, Lime juice"
+359,"Pink Lady","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Grenadine, Light cream, Egg white"
+360,"747 Drink",Cocktail,Alcoholic,"Fill a Collins glass with ice.
+Pour in vodka, lime cordial, and cranberry juice.
+Fill up with Sprite.
+Garnish with a Lime wheel or some cranberries","Vodka, Roses sweetened lime juice, Cranberry Juice, Sprite"
+361,Applejack,Cocktail,Alcoholic,"Add all ingredients into mixing glass, chill and strain into cocktail glass","Jack Daniels, Midori melon liqueur, Sour mix"
+362,"Pink Moon",Cocktail,Alcoholic,"Slowly shake in a shaker with ice, strain into a square whiskey glass. Top with fresh ice. Add the blackberries to garnish. Add flowers and a green leaf for a special look!","Gin, Coconut Liqueur, Elderflower cordial, Lime Juice, Blackberries"
+363,Quick-sand,"Ordinary Drink",Alcoholic,"Simply add the orange juice, quite a quick pour in order to mix the sambucca with the orange juice. The juice MUST have fruit pulp!","Black Sambuca, Orange juice"
+364,Turkeyball,Shot,Alcoholic,"Shake with ice and strain into a shot glass.","Wild Turkey, Amaretto, Pineapple juice"
+365,Jackhammer,"Ordinary Drink",Alcoholic,"Serve over ice- Warning,Deadly!","Jack Daniels, Amaretto"
+366,"Kiwi Lemon","Ordinary Drink",Alcoholic,"Mix in highball glass. Stirr. Garnish with slice of kiwi.","Kiwi liqueur, Bitter lemon, Ice"
+367,Blackthorn,"Ordinary Drink",Alcoholic,"Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.","Sweet Vermouth, Sloe gin, Lemon peel"
+368,"Kir Royale","Ordinary Drink",Alcoholic,"Pour Creme de cassis in glass, gently pour champagne on top","Creme de Cassis, Champagne"
+369,"Kurant Tea","Coffee / Tea",Alcoholic,"Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!","Absolut Kurant, Tea, Sugar"
+370,"Gin Rickey",Cocktail,Alcoholic,"Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and/or lemon slices.","Gin, Grenadine, lemon, Soda Water, Lime"
+371,"Long vodka","Ordinary Drink",Alcoholic,"Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka","Vodka, Lime, Angostura bitters, Tonic water, Ice"
+372,"Whisky Mac","Ordinary Drink",Alcoholic,"Pour both of the ingredients into a wine goblet with no ice.","Scotch, Wine"
+373,"Vodka Fizz","Other / Unknown",Alcoholic,"Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.","Vodka, Half-and-half, Limeade, Ice, Nutmeg"
+374,"Quick F**K",Shot,Alcoholic,"In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream","Kahlua, Midori melon liqueur, Baileys irish cream"
+375,"Fruit Shake","Other / Unknown","Non alcoholic","Blend til smooth.","Yoghurt, Banana, Orange juice, Fruit, Ice"
+376,Melya,"Coffee / Tea","Non alcoholic","Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.","Espresso, Honey, Cocoa powder"
+377,Gimlet,Cocktail,Alcoholic,"Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.","Gin, Lime Juice, Sugar Syrup, Lime"
+378,Zoksel,"Soft Drink",Alcoholic,"No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.","Beer, Root beer, Lemonade, Coca-Cola, 7-Up, Creme de Cassis, Lemon"
+379,Apello,"Other / Unknown","Non alcoholic","Stirr. Grnish with maraschino cherry.","Orange juice, Grapefruit juice, Apple juice, Maraschino cherry"
+380,Avalon,"Ordinary Drink",Alcoholic,"Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.","Vodka, Pisang Ambon, Apple juice, Lemon juice, Lemonade"
+381,Radler,"Ordinary Drink",Alcoholic,"Pour beer into large mug, slowly add the 7-up (or Sprite).","Beer, 7-Up"
+382,Diesel,Beer,Alcoholic,"Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.","Lager, Cider, Blackcurrant cordial"
+383,Paloma,Cocktail,Alcoholic,"Stir together and serve over ice.","Grape Soda, Tequila"
+384,Limeade,"Other / Unknown","Non alcoholic","In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.","Lime, Sugar, Soda water, Lime peel"
+385,Bellini,"Ordinary Drink",Alcoholic,"Pour peach purée into chilled flute, add sparkling wine. Stir gently.","Champagne, Peach schnapps"
+386,Abilene,"Ordinary Drink",Alcoholic,"Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.","Dark rum, Peach nectar, Orange juice"
+387,Bramble,"Ordinary Drink",Alcoholic,"Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.","Gin, lemon juice, Sugar syrup, Creme de Mure"
+388,Almeria,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Kahlua, Egg white"
+389,"Old Pal",Cocktail,Alcoholic,"Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.","Rye whiskey, Campari, Dry Vermouth"
+390,Thriller,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Scotch, Wine, Orange juice"
+391,Brooklyn,Cocktail,Alcoholic,"Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.","Rye Whiskey, Dry Vermouth, Maraschino Liqueur, Angostura Bitters, Maraschino Cherry"
+392,Bluebird,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.","Gin, Triple sec, Blue Curacao, Bitters, Maraschino cherry, Lemon peel"
+393,Snowball,"Ordinary Drink",Alcoholic,"Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.","Advocaat, Lemonade, Lemon, Ice"
+394,Applecar,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Applejack, Triple sec, Lemon juice"
+395,Godchild,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.","Vodka, Amaretto, Heavy cream"
+396,Balmoral,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Scotch, Sweet Vermouth, Dry Vermouth, Bitters"
+397,Acapulco,"Ordinary Drink",Alcoholic,"Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.","Light rum, Triple sec, Lime juice, Sugar, Egg white, Mint"
+398,"501 Blue","Ordinary Drink",Alcoholic,"Mix equal amounts into a glass with ice.","Blue Curacao, Blueberry schnapps, Vodka, Sour mix, 7-Up"
+399,Alexander,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.","Gin, Creme de Cacao, Light cream, Nutmeg"
+400,Algonquin,"Ordinary Drink",Alcoholic,"Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.","Blended whiskey, Dry Vermouth, Pineapple juice"
+401,Smut,"Punch / Party Drink",Alcoholic,"Throw it all together and serve real cold.","Red wine, Peach schnapps, Pepsi Cola, Orange juice"
+402,Adam,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Lemon juice, Grenadine"
+403,Melya,"Coffee / Tea","Non alcoholic","Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.","Espresso, Honey, Cocoa powder"
+404,Mojito,Cocktail,Alcoholic,"Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.","Light rum, Lime, Sugar, Mint, Soda water"
+405,Mimosa,"Ordinary Drink",Alcoholic,"Ensure both ingredients are well chilled, then mix into the glass. Serve cold.","Champagne, Orange juice"
+406,Paloma,Cocktail,Alcoholic,"Stir together and serve over ice.","Grape Soda, Tequila"
+407,Orgasm,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Creme de Cacao, Amaretto, Triple sec, Vodka, Light cream"
+408,Zombie,Cocktail,Alcoholic,"Blend at high speed for no more than 5 seconds.
+
+Pour into a glass, add ice cubes to fill, then add the garnish.
+
+*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
+
+Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
+
+Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.","Rum, Gold rum, 151 proof rum, Pernod, Grenadine, Lime Juice, Angostura Bitters"
+409,Gimlet,Cocktail,Alcoholic,"Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.","Gin, Lime Juice, Sugar Syrup, Lime"
+410,Limeade,"Other / Unknown","Non alcoholic","In a large glass, put the lime juice and sugar, and stir well. Add cold seltzer water to fill. Put the lime peels in the glass. Drink. Repeat until limes or soda run out.","Lime, Sugar, Soda water, Lime peel"
+411,Bramble,"Ordinary Drink",Alcoholic,"Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.","Gin, lemon juice, Sugar syrup, Creme de Mure"
+412,Almeria,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Kahlua, Egg white"
+413,Vampiro,"Ordinary Drink",Alcoholic,"Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.","Tequila, Tomato Juice, Orange Juice, Lime Juice, Sugar Syrup, Salt"
+414,Martini,Cocktail,Alcoholic,"Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.","Gin, Dry Vermouth, Olive"
+415,Zambeer,"Soft Drink",Alcoholic,"Mix sambuca with rootbeer and stir. Add ice","Sambuca, Root beer, Ice"
+416,Ipamena,"Ordinary Drink","Non alcoholic","Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime","Lime, Brown sugar, Passion fruit juice, Ginger ale, Ice"
+417,"Mai Tai","Ordinary Drink",Alcoholic,"Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.","Light rum, Orgeat syrup, Triple sec, Sweet and sour, Cherry"
+418,"Rum Sour","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the rum, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.","Light rum, Lemon juice, Sugar, Orange, Maraschino cherry"
+419,Balmoral,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Scotch, Sweet Vermouth, Dry Vermouth, Bitters"
+420,Kamikaze,"Ordinary Drink",Alcoholic,"Shake all ingredients together with ice. Strain into glass, garnish and serve.","Vodka, Triple sec, Lime juice"
+421,Manhattan,Cocktail,Alcoholic,"Stirred over ice, strained into a chilled glass, garnished, and served up.","Sweet Vermouth, Bourbon, Angostura bitters, Ice, Maraschino cherry, Orange peel"
+422,Americano,"Ordinary Drink",Alcoholic,"Pour the Campari and vermouth over ice into glass, add a splash of soda water and garnish with half orange slice.","Campari, Sweet Vermouth, Lemon peel, Orange peel"
+423,"Rum Toddy","Ordinary Drink",Alcoholic,"Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.","Rum, Powdered sugar, Lemon peel, Water"
+424,"Jam Donut",Shot,Alcoholic,"Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.","Baileys irish cream, Chambord raspberry liqueur, Sugar syrup, Sugar"
+425,Tia-Maria,"Homemade Liqueur",Alcoholic,"Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.","Water, Brown sugar, Coffee, Rum, Vanilla extract"
+426,Casino,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.","Gin, Maraschino liqueur, Lemon juice, Orange bitters, Cherry"
+427,Avalon,"Ordinary Drink",Alcoholic,"Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.","Vodka, Pisang Ambon, Apple juice, Lemon juice, Lemonade"
+428,Zinger,"Soft Drink",Alcoholic,"Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.","Peachtree schnapps, Surge"
+429,Negroni,"Ordinary Drink",Alcoholic,"Stir into glass over ice, garnish and serve.","Gin, Campari, Sweet Vermouth"
+430,Quentin,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.","Dark rum, Kahlua, Light cream, Nutmeg"
+431,Addison,Cocktail,Alcoholic,"Shake together all the ingredients and strain into a cold glass.","Gin, Vermouth"
+432,Snowday,Cocktail,Alcoholic,"Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.","Vodka, Amaro Montenegro, Ruby Port, Blood Orange, Angostura Bitters, Orange Peel"
+433,Martini,Cocktail,Alcoholic,"Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.","Gin, Dry Vermouth, Olive"
+434,Bellini,"Ordinary Drink",Alcoholic,"Pour peach purée into chilled flute, add sparkling wine. Stir gently.","Champagne, Peach schnapps"
+435,Abilene,"Ordinary Drink",Alcoholic,"Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.","Dark rum, Peach nectar, Orange juice"
+436,Ipamena,"Ordinary Drink","Non alcoholic","Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime","Lime, Brown sugar, Passion fruit juice, Ginger ale, Ice"
+437,Veteran,"Ordinary Drink",Alcoholic,"Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.","Dark rum, Cherry brandy"
+438,Stinger,"Ordinary Drink",Alcoholic,"Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.","Brandy, White Creme de Menthe"
+439,Sangria,"Punch / Party Drink",Alcoholic,"Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.","Red wine, Sugar, Orange juice, Lemon juice, Cloves, Cinnamon"
+440,"Gin Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.","Gin, Lemon, Powdered sugar, Carbonated water"
+441,Danbooka,"Coffee / Tea",Alcoholic,"pour it in and mix it.","Coffee, Everclear"
+442,Aviation,Cocktail,Alcoholic,"Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.","Gin, lemon juice, maraschino liqueur"
+443,Brooklyn,Cocktail,Alcoholic,"Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.","Rye Whiskey, Dry Vermouth, Maraschino Liqueur, Angostura Bitters, Maraschino Cherry"
+444,"410 Gone","Ordinary Drink",Alcoholic,"Mix together and enjoy!","Peach Vodka, Coca-Cola"
+445,Snowball,"Ordinary Drink",Alcoholic,"Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.","Advocaat, Lemonade, Lemon, Ice"
+446,"Pink Gin","Ordinary Drink",Alcoholic,"Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.","Bitters, Gin"
+447,Affinity,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Scotch, Sweet Vermouth, Dry Vermouth, Orange bitters"
+448,Shot-gun,Shot,Alcoholic,"Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.","Jim Beam, Jack Daniels, Wild Turkey"
+449,"Gin Sour","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.","Gin, Lemon juice, Sugar, Orange, Maraschino cherry"
+450,Manhattan,Cocktail,Alcoholic,"Stirred over ice, strained into a chilled glass, garnished, and served up.","Sweet Vermouth, Bourbon, Angostura bitters, Ice, Maraschino cherry, Orange peel"
+451,Rose,"Ordinary Drink",Alcoholic,"Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.","Dry Vermouth, Gin, Apricot brandy, Lemon juice, Grenadine, Powdered sugar"
+452,Zorro,"Coffee / Tea",Alcoholic,"add all and pour black coffee and add whipped cream on top.","Sambuca, Baileys irish cream, White Creme de Menthe"
+453,Bijou,Cocktail,Alcoholic,"Stir in mixing glass with ice and strain
+","Orange Bitters, Green Chartreuse, Gin, Sweet Vermouth"
+454,Mojito,Cocktail,Alcoholic,"Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.","Light rum, Lime, Sugar, Mint, Soda water"
+455,Paloma,Cocktail,Alcoholic,"Stir together and serve over ice.","Grape Soda, Tequila"
+456,Avalon,"Ordinary Drink",Alcoholic,"Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.","Vodka, Pisang Ambon, Apple juice, Lemon juice, Lemonade"
+457,Boxcar,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.","Gin, Triple sec, Lemon juice, Grenadine, Egg white"
+458,Casino,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.","Gin, Maraschino liqueur, Lemon juice, Orange bitters, Cherry"
+459,Zombie,Cocktail,Alcoholic,"Blend at high speed for no more than 5 seconds.
+
+Pour into a glass, add ice cubes to fill, then add the garnish.
+
+*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
+
+Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
+
+Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.","Rum, Gold rum, 151 proof rum, Pernod, Grenadine, Lime Juice, Angostura Bitters"
+460,Apello,"Other / Unknown","Non alcoholic","Stirr. Grnish with maraschino cherry.","Orange juice, Grapefruit juice, Apple juice, Maraschino cherry"
+461,Zoksel,"Soft Drink",Alcoholic,"No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.","Beer, Root beer, Lemonade, Coca-Cola, 7-Up, Creme de Cassis, Lemon"
+462,Victor,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Sweet Vermouth, Brandy"
+463,Orgasm,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Creme de Cacao, Amaretto, Triple sec, Vodka, Light cream"
+464,Frosé,Cocktail,Alcoholic,"Step 1
+Pour rosé into a 13x9" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.
+
+Step 2
+Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.
+
+Step 3
+Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.
+
+Step 4
+Blend again until frosé is slushy. Divide among glasses.
+
+Step 5
+Do Ahead: Rosé can be frozen 1 week ahead.","Rose, Sugar, Strawberries, Lemon Juice"
+465,Mimosa,"Ordinary Drink",Alcoholic,"Ensure both ingredients are well chilled, then mix into the glass. Serve cold.","Champagne, Orange juice"
+466,Vampiro,"Ordinary Drink",Alcoholic,"Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.","Tequila, Tomato Juice, Orange Juice, Lime Juice, Sugar Syrup, Salt"
+467,Negroni,"Ordinary Drink",Alcoholic,"Stir into glass over ice, garnish and serve.","Gin, Campari, Sweet Vermouth"
+468,Vesuvio,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.","Light rum, Sweet Vermouth, Lemon, Powdered sugar, Egg white"
+469,"Old Pal",Cocktail,Alcoholic,"Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.","Rye whiskey, Campari, Dry Vermouth"
+470,Scooter,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.","Brandy, Amaretto, Light cream"
+471,Addison,Cocktail,Alcoholic,"Shake together all the ingredients and strain into a cold glass.","Gin, Vermouth"
+472,Snowday,Cocktail,Alcoholic,"Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.","Vodka, Amaro Montenegro, Ruby Port, Blood Orange, Angostura Bitters, Orange Peel"
+473,Danbooka,"Coffee / Tea",Alcoholic,"pour it in and mix it.","Coffee, Everclear"
+474,Aviation,Cocktail,Alcoholic,"Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.","Gin, lemon juice, maraschino liqueur"
+475,"410 Gone","Ordinary Drink",Alcoholic,"Mix together and enjoy!","Peach Vodka, Coca-Cola"
+476,Spritz,"Ordinary Drink",Alcoholic,"Build into glass over ice, garnish and serve.","Prosecco, Campari, Soda Water"
+477,Apello,"Other / Unknown","Non alcoholic","Stirr. Grnish with maraschino cherry.","Orange juice, Grapefruit juice, Apple juice, Maraschino cherry"
+478,Vesper,Cocktail,Alcoholic,"Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.","Gin, Vodka, Lillet Blanc"
+479,Paloma,Cocktail,Alcoholic,"Stir together and serve over ice.","Grape Soda, Tequila"
+480,Vampiro,"Ordinary Drink",Alcoholic,"Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.","Tequila, Tomato Juice, Orange Juice, Lime Juice, Sugar Syrup, Salt"
+481,Frappé,"Coffee / Tea","Non alcoholic","Mix together. Blend at highest blender speed for about 1 minute. Pour into a glass and drink with a straw. Notes: This works best if everything is cold (if you make fresh coffee, mix it with the milk and let it sit in the fridge for 1/2 hour. If it is not frothy, add more milk, or even just some more milk powder. The froth gradually turns to liquid at the bottom of the glass, so you will find that you can sit and drink this for about 1/2 hour, with more iced coffee continually appearing at the bottom. Very refreshing.","Coffee, Milk, Sugar"
+482,"Old Pal",Cocktail,Alcoholic,"Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.","Rye whiskey, Campari, Dry Vermouth"
+483,Ipamena,"Ordinary Drink","Non alcoholic","Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime","Lime, Brown sugar, Passion fruit juice, Ginger ale, Ice"
+484,"Ice Pick","Ordinary Drink",Alcoholic,"Put Vodka in glass fill with iced tea. Stir in lemon to taste.","Vodka, Iced tea, Lemon juice"
+485,Applecar,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Applejack, Triple sec, Lemon juice"
+486,Paradise,"Ordinary Drink",Alcoholic,"Shake together over ice. Strain into cocktail glass and serve chilled.","Gin, Apricot Brandy, Orange Juice"
+487,Acapulco,"Ordinary Drink",Alcoholic,"Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.","Light rum, Triple sec, Lime juice, Sugar, Egg white, Mint"
+488,"Pink Gin","Ordinary Drink",Alcoholic,"Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.","Bitters, Gin"
+489,"Spice 75",Cocktail,Alcoholic,"Gently warm 60g golden caster sugar in a pan with 30ml water and 1 tbsp allspice. Cook gently until the sugar has dissolved, then leave the mixture to cool. Strain through a sieve lined with a coffee filter (or a double layer of kitchen paper).
+
+Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90ml lime juice. Shake with ice and strain between six flute glasses. Top up with 600ml champagne and garnish each with an orange twist.","Sugar, Allspice, Rum, Lime Juice, Champagne, Orange spiral"
+490,"Pegu Club",Cocktail,Alcoholic,"Shake, strain, up, cocktail glass","Gin, Orange Curacao, Lime Juice, Angostura Bitters, Orange Bitters"
+491,"Pink Moon",Cocktail,Alcoholic,"Slowly shake in a shaker with ice, strain into a square whiskey glass. Top with fresh ice. Add the blackberries to garnish. Add flowers and a green leaf for a special look!","Gin, Coconut Liqueur, Elderflower cordial, Lime Juice, Blackberries"
+492,"Pink Lady","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Grenadine, Light cream, Egg white"
+493,Applejack,Cocktail,Alcoholic,"Add all ingredients into mixing glass, chill and strain into cocktail glass","Jack Daniels, Midori melon liqueur, Sour mix"
+494,Tipperary,Cocktail,Alcoholic,"Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and express the orange oils over the drink. Discard orange twist.","Irish Whiskey, Sweet Vermouth, Green Chartreuse"
+495,"Rum Punch","Punch / Party Drink",Alcoholic,"Mix all ingredients in a punch bowl and serve.","Rum, Ginger ale, Fruit punch, Orange juice, Ice"
+496,Archbishop,"Ordinary Drink",Alcoholic,"In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.","Gin, Wine, Benedictine, Lime"
+497,Zipperhead,Shot,Alcoholic,"Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top).","Chambord raspberry liqueur, Vodka, Soda water"
+498,"Wine Punch","Punch / Party Drink",Alcoholic,"Combine all of the ingredients and pour over a block of ice.","Red wine, Lemon, Orange juice, Orange, Pineapple juice"
+499,"Lemon Drop",Cocktail,Alcoholic,"Shake and strain into a chilled cocktail glass rimmed with sugar.","Vodka, Cointreau, Lemon"
+500,"Porto flip","Ordinary Drink",Alcoholic,"Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.","Brandy, Port, Egg Yolk"
+501,Quentin,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.","Dark rum, Kahlua, Light cream, Nutmeg"
+502,Daiquiri,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.","Light rum, Lime, Powdered sugar"
+503,Algonquin,"Ordinary Drink",Alcoholic,"Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.","Blended whiskey, Dry Vermouth, Pineapple juice"
+504,Mauresque,Cocktail,Alcoholic,"1 - Pour the Ricard (or pastis)
+2 - Pour the orgeat syrup
+3 - Finally pour the water and add ice cubes at your convenience.
+
+Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.","Ricard, Orgeat Syrup, Water"
+505,"Queen Bee","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Coffee brandy, Lime vodka, Sherry"
+506,Quick-sand,"Ordinary Drink",Alcoholic,"Simply add the orange juice, quite a quick pour in order to mix the sambucca with the orange juice. The juice MUST have fruit pulp!","Black Sambuca, Orange juice"
+507,"Gin Squirt","Ordinary Drink",Alcoholic,"Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve.","Gin, Grenadine, Powdered sugar, Pineapple, Strawberries, Carbonated water"
+508,Aquamarine,Cocktail,Alcoholic,"Shake well in a shaker with ice.
+Strain in a martini glass.","Hpnotiq, Pineapple Juice, Banana Liqueur"
+509,"Quick F**K",Shot,Alcoholic,"In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream","Kahlua, Midori melon liqueur, Baileys irish cream"
+510,"Tequila Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except ginger ale) with ice and strain into a collins glass over ice cubes. Fill with ginger ale, stir, and serve.","Tequila, Lemon juice, Grenadine, Egg white, Ginger ale"
+511,"Tequila Sour","Ordinary Drink",Alcoholic,"Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Add the half-slice of lemon, top with the cherry, and serve.","Tequila, Lemon, Powdered sugar, Lemon, Cherry"
+512,"Kiss me Quick","Ordinary Drink",Alcoholic,"mix in the glass","Cranberry vodka, Apfelkorn, Schweppes Russchian, Apple juice, Ice"
+513,"Coffee Liqueur","Homemade Liqueur",Alcoholic,"Combine coffee, sugar and water. Simmer 1 hour and let cool. Add vanilla and vodka. Age in sealed jar 2 to 3 weeks.","Coffee, Vanilla extract, Sugar, Vodka, Water"
+514,"Banana Daiquiri","Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.","Light rum, Triple sec, Banana, Lime juice, Sugar, Cherry"
+515,"Frozen Daiquiri","Ordinary Drink",Alcoholic,"Combine all ingredients (except for the cherry) in an electric blender and blend at a low speed for five seconds, then blend at a high speed until firm. Pour contents into a champagne flute, top with the cherry, and serve.","Light rum, Triple sec, Lime juice, Sugar, Cherry, Ice"
+516,"Queen Charlotte","Ordinary Drink",Alcoholic,"Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.","Red wine, Grenadine, Lemon-lime soda"
+517,"Queen Elizabeth","Ordinary Drink",Alcoholic,"Stir all ingredients with ice, strain into a cocktail glass, and serve.","Dry Vermouth, Gin, Benedictine"
+518,"Tequila Slammer",Shot,Alcoholic,"Mix carefully to avoid releasing the dissolved CO2.","Tequila, 7-up"
+519,"Tequila Sunrise",Cocktail,Alcoholic,"Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.","Tequila, Orange juice, Grenadine"
+520,"Amaretto Liqueur","Homemade Liqueur",Alcoholic,"Combine sugar and 3/4 cup water in a small saucepan. Bring to a boil, stirring constantly. Reduce heat and simmer until all sugar is dissolved. Remove from heat and cool. In an aging container, combine apricot halves, almond extract, grain alcohol with 1/2 cup water, and brandy. Stir in cooled sugar syrup mixture. Cap and let age for 2 days. Remove apricot halves. (Save apricot halves, can be used for cooking). Add food coloring and glycerine. Stir, recap and continue aging for 1 to 2 months. Re-bottle as desired. Liqueur is ready to serve but will continue to improve with additional aging.","Sugar, Water, Apricot, Almond flavoring, Grain alcohol, Water, Brandy, Food coloring, Food coloring, Food coloring, Glycerine"
+521,"Angelica Liqueur","Homemade Liqueur",Alcoholic,"Combine all herbs, nuts and spices with vodka in a 1 quart or larger aging container. Cap tightly and shake daily for 2 weeks. Strain through a fine muslin cloth or coffee filter, discarding solids. Clean out aging container. Place liquid back in container. Place sugar and water in saucepan and stir to combine over medium heat. When sugar is completely dissolved, set aside and let cool. When cool combine with food coloring and add to liqueur liquid. Cap and allow to age and mellow in a cool, dark place for one month.","Angelica root, Almond, Allspice, Cinnamon, Anise, Coriander, Marjoram leaves, Vodka, Sugar, Water, Food coloring, Food coloring"
+522,"Tequila Surprise",Shot,Alcoholic,"Fill shot glass with Tequila. Add drops of Tobasco sauce.","Tequila, Tabasco sauce"
+523,"Quaker's Cocktail","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Light rum, Brandy, Lemon, Raspberry syrup"
+524,"National Aquarium","Ordinary Drink",Alcoholic,"Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.","Rum, Vodka, Gin, Blue Curacao, Sour mix, Lemon-lime soda"
+525,"Strawberry Daiquiri","Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.","Strawberry schnapps, Light rum, Lime juice, Powdered sugar, Strawberries"
+526,Kir,"Ordinary Drink",Alcoholic,"Add the crème de cassis to the bottom of the glass, then top up with wine.","Creme de Cassis, Champagne"
+527,Rose,"Ordinary Drink",Alcoholic,"Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.","Dry Vermouth, Gin, Apricot brandy, Lemon juice, Grenadine, Powdered sugar"
+528,Derby,"Ordinary Drink",Alcoholic,"Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.","gin, Peach Bitters, Mint"
+529,Zorro,"Coffee / Tea",Alcoholic,"add all and pour black coffee and add whipped cream on top.","Sambuca, Baileys irish cream, White Creme de Menthe"
+530,Karsk,"Ordinary Drink",Alcoholic,"Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.","Coffee, Grain alcohol"
+531,Affair,"Ordinary Drink",Alcoholic,"Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.","Strawberry schnapps, Orange juice, Cranberry juice, Club soda"
+532,Orgasm,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Creme de Cacao, Amaretto, Triple sec, Vodka, Light cream"
+533,Frosé,Cocktail,Alcoholic,"Step 1
+Pour rosé into a 13x9" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.
+
+Step 2
+Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.
+
+Step 3
+Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.
+
+Step 4
+Blend again until frosé is slushy. Divide among glasses.
+
+Step 5
+Do Ahead: Rosé can be frozen 1 week ahead.","Rose, Sugar, Strawberries, Lemon Juice"
+534,Victor,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Sweet Vermouth, Brandy"
+535,Zinger,"Soft Drink",Alcoholic,"Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.","Peachtree schnapps, Surge"
+536,Vesper,Cocktail,Alcoholic,"Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.","Gin, Vodka, Lillet Blanc"
+537,Radler,"Ordinary Drink",Alcoholic,"Pour beer into large mug, slowly add the 7-up (or Sprite).","Beer, 7-Up"
+538,Spritz,"Ordinary Drink",Alcoholic,"Build into glass over ice, garnish and serve.","Prosecco, Campari, Soda Water"
+539,Boxcar,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.","Gin, Triple sec, Lemon juice, Grenadine, Egg white"
+540,Veteran,"Ordinary Drink",Alcoholic,"Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.","Dark rum, Cherry brandy"
+541,Sidecar,"Ordinary Drink",Alcoholic,"Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.","Cognac, Cointreau, Lemon juice"
+542,Vampiro,"Ordinary Drink",Alcoholic,"Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.","Tequila, Tomato Juice, Orange Juice, Lime Juice, Sugar Syrup, Salt"
+543,Zambeer,"Soft Drink",Alcoholic,"Mix sambuca with rootbeer and stir. Add ice","Sambuca, Root beer, Ice"
+544,Scooter,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.","Brandy, Amaretto, Light cream"
+545,"Big Red",Shot,Alcoholic,"Pour ingredients into 1 ounce shot glass","Irish cream, Goldschlager"
+546,Almeria,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Dark rum, Kahlua, Egg white"
+547,Bramble,"Ordinary Drink",Alcoholic,"Fill glass with crushed ice. Build gin, lemon juice and simple syrup over. Stir, and then pour blackberry liqueur over in a circular fashion to create marbling effect. Garnish with two blackberries and lemon slice.","Gin, lemon juice, Sugar syrup, Creme de Mure"
+548,Stinger,"Ordinary Drink",Alcoholic,"Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.","Brandy, White Creme de Menthe"
+549,Sazerac,"Ordinary Drink",Alcoholic,"Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.","Ricard, Sugar, Peychaud bitters, Water, Bourbon, Lemon peel"
+550,Martini,Cocktail,Alcoholic,"Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.","Gin, Dry Vermouth, Olive"
+551,Smut,"Punch / Party Drink",Alcoholic,"Throw it all together and serve real cold.","Red wine, Peach schnapps, Pepsi Cola, Orange juice"
+552,Rose,"Ordinary Drink",Alcoholic,"Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.","Dry Vermouth, Gin, Apricot brandy, Lemon juice, Grenadine, Powdered sugar"
+553,Karsk,"Ordinary Drink",Alcoholic,"Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.","Coffee, Grain alcohol"
+554,Zoksel,"Soft Drink",Alcoholic,"No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.","Beer, Root beer, Lemonade, Coca-Cola, 7-Up, Creme de Cassis, Lemon"
+555,Diesel,Beer,Alcoholic,"Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.","Lager, Cider, Blackcurrant cordial"
+556,Mimosa,"Ordinary Drink",Alcoholic,"Ensure both ingredients are well chilled, then mix into the glass. Serve cold.","Champagne, Orange juice"
+557,Frosé,Cocktail,Alcoholic,"Step 1
+Pour rosé into a 13x9" pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours.
+
+Step 2
+Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes.
+
+Step 3
+Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes.
+
+Step 4
+Blend again until frosé is slushy. Divide among glasses.
+
+Step 5
+Do Ahead: Rosé can be frozen 1 week ahead.","Rose, Sugar, Strawberries, Lemon Juice"
+558,Casino,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain into chilled cocktail glass. Garnish with a lemon twist and a maraschino cherry. Serve without a straw.","Gin, Maraschino liqueur, Lemon juice, Orange bitters, Cherry"
+559,Orgasm,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Creme de Cacao, Amaretto, Triple sec, Vodka, Light cream"
+560,Spritz,"Ordinary Drink",Alcoholic,"Build into glass over ice, garnish and serve.","Prosecco, Campari, Soda Water"
+561,Vesper,Cocktail,Alcoholic,"Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.","Gin, Vodka, Lillet Blanc"
+562,Snowday,Cocktail,Alcoholic,"Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.","Vodka, Amaro Montenegro, Ruby Port, Blood Orange, Angostura Bitters, Orange Peel"
+563,Sazerac,"Ordinary Drink",Alcoholic,"Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.","Ricard, Sugar, Peychaud bitters, Water, Bourbon, Lemon peel"
+564,Vesuvio,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.","Light rum, Sweet Vermouth, Lemon, Powdered sugar, Egg white"
+565,Sangria,"Punch / Party Drink",Alcoholic,"Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.","Red wine, Sugar, Orange juice, Lemon juice, Cloves, Cinnamon"
+566,Scooter,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.","Brandy, Amaretto, Light cream"
+567,Stinger,"Ordinary Drink",Alcoholic,"Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.","Brandy, White Creme de Menthe"
+568,Addison,Cocktail,Alcoholic,"Shake together all the ingredients and strain into a cold glass.","Gin, Vermouth"
+569,Sidecar,"Ordinary Drink",Alcoholic,"Pour all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass.","Cognac, Cointreau, Lemon juice"
+570,Paradise,"Ordinary Drink",Alcoholic,"Shake together over ice. Strain into cocktail glass and serve chilled.","Gin, Apricot Brandy, Orange Juice"
+571,Snowball,"Ordinary Drink",Alcoholic,"Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.","Advocaat, Lemonade, Lemon, Ice"
+572,Shot-gun,Shot,Alcoholic,"Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.","Jim Beam, Jack Daniels, Wild Turkey"
+573,"Gin Sour","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.","Gin, Lemon juice, Sugar, Orange, Maraschino cherry"
+574,"Rum Sour","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the rum, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.","Light rum, Lemon juice, Sugar, Orange, Maraschino cherry"
+575,"Spice 75",Cocktail,Alcoholic,"Gently warm 60g golden caster sugar in a pan with 30ml water and 1 tbsp allspice. Cook gently until the sugar has dissolved, then leave the mixture to cool. Strain through a sieve lined with a coffee filter (or a double layer of kitchen paper).
+
+Pour 60ml of the spiced syrup into a cocktail shaker along with 200ml rum and 90ml lime juice. Shake with ice and strain between six flute glasses. Top up with 600ml champagne and garnish each with an orange twist.","Sugar, Allspice, Rum, Lime Juice, Champagne, Orange spiral"
+576,AT&T,"Ordinary Drink",Alcoholic,"Pour Vodka and Gin over ice, add Tonic and Stir","Absolut Vodka, Gin, Tonic water"
+577,Smut,"Punch / Party Drink",Alcoholic,"Throw it all together and serve real cold.","Red wine, Peach schnapps, Pepsi Cola, Orange juice"
+578,Mojito,Cocktail,Alcoholic,"Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.","Light rum, Lime, Sugar, Mint, Soda water"
+579,Victor,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Sweet Vermouth, Brandy"
+580,Gimlet,Cocktail,Alcoholic,"Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.","Gin, Lime Juice, Sugar Syrup, Lime"
+581,Spritz,"Ordinary Drink",Alcoholic,"Build into glass over ice, garnish and serve.","Prosecco, Campari, Soda Water"
+582,Scooter,"Ordinary Drink",Alcoholic,"Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.","Brandy, Amaretto, Light cream"
+583,Quentin,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.","Dark rum, Kahlua, Light cream, Nutmeg"
+584,Martini,Cocktail,Alcoholic,"Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.","Gin, Dry Vermouth, Olive"
+585,"Mai Tai","Ordinary Drink",Alcoholic,"Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.","Light rum, Orgeat syrup, Triple sec, Sweet and sour, Cherry"
+586,Veteran,"Ordinary Drink",Alcoholic,"Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.","Dark rum, Cherry brandy"
+587,Stinger,"Ordinary Drink",Alcoholic,"Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.","Brandy, White Creme de Menthe"
+588,Affinity,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Scotch, Sweet Vermouth, Dry Vermouth, Orange bitters"
+589,Shot-gun,Shot,Alcoholic,"Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.","Jim Beam, Jack Daniels, Wild Turkey"
+590,Aviation,Cocktail,Alcoholic,"Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.","Gin, lemon juice, maraschino liqueur"
+591,Thriller,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.","Scotch, Wine, Orange juice"
+592,"Jam Donut",Shot,Alcoholic,"Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.","Baileys irish cream, Chambord raspberry liqueur, Sugar syrup, Sugar"
+593,Manhattan,Cocktail,Alcoholic,"Stirred over ice, strained into a chilled glass, garnished, and served up.","Sweet Vermouth, Bourbon, Angostura bitters, Ice, Maraschino cherry, Orange peel"
+594,"Salty Dog","Ordinary Drink",Alcoholic,"Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)","Grapefruit juice, Gin, Salt"
+595,Artillery,"Ordinary Drink",Alcoholic,"Stir all ingredients with ice, strain into a cocktail glass, and serve.","Sweet Vermouth, Gin, Bitters"
+596,Jitterbug,Cocktail,Alcoholic,"Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!","Gin, Vodka, Grenadine, Lime juice, Sugar, Sugar syrup, Soda water"
+597,Zorbatini,Cocktail,Alcoholic,"Prepare like a Martini. Garnish with a green olive.","Vodka, Ouzo"
+598,Afterglow,Cocktail,"Non alcoholic","Mix. Serve over ice.","Grenadine, Orange juice, Pineapple juice"
+599,"Rum Toddy","Ordinary Drink",Alcoholic,"Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.","Rum, Powdered sugar, Lemon peel, Water"
+600,Tia-Maria,"Homemade Liqueur",Alcoholic,"Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.","Water, Brown sugar, Coffee, Rum, Vanilla extract"
+601,Smut,"Punch / Party Drink",Alcoholic,"Throw it all together and serve real cold.","Red wine, Peach schnapps, Pepsi Cola, Orange juice"
+602,Bijou,Cocktail,Alcoholic,"Stir in mixing glass with ice and strain
+","Orange Bitters, Green Chartreuse, Gin, Sweet Vermouth"
+603,Quentin,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.","Dark rum, Kahlua, Light cream, Nutmeg"
+604,Vesuvio,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.","Light rum, Sweet Vermouth, Lemon, Powdered sugar, Egg white"
+605,Daiquiri,"Ordinary Drink",Alcoholic,"Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.","Light rum, Lime, Powdered sugar"
+606,"Gin Sour","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.","Gin, Lemon juice, Sugar, Orange, Maraschino cherry"
+607,"Rum Sour","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the rum, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.","Light rum, Lemon juice, Sugar, Orange, Maraschino cherry"
+608,Bluebird,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with crushed ice, combine the gin, triple sec, Curacao, and bitters. Stir well. Strain into a cocktail glass and garnish with the lemon twist and the cherry.","Gin, Triple sec, Blue Curacao, Bitters, Maraschino cherry, Lemon peel"
+609,"501 Blue","Ordinary Drink",Alcoholic,"Mix equal amounts into a glass with ice.","Blue Curacao, Blueberry schnapps, Vodka, Sour mix, 7-Up"
+610,Acapulco,"Ordinary Drink",Alcoholic,"Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.","Light rum, Triple sec, Lime juice, Sugar, Egg white, Mint"
+611,Shot-gun,Shot,Alcoholic,"Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.","Jim Beam, Jack Daniels, Wild Turkey"
+612,Buccaneer,Beer,Alcoholic,"Pour the corona into an 18oz beer glass pour the bacardi limon into the beer stir very gently","Corona, Bacardi Limon"
+613,"Rum Punch","Punch / Party Drink",Alcoholic,"Mix all ingredients in a punch bowl and serve.","Rum, Ginger ale, Fruit punch, Orange juice, Ice"
+614,Algonquin,"Ordinary Drink",Alcoholic,"Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.","Blended whiskey, Dry Vermouth, Pineapple juice"
+615,"Rum Toddy","Ordinary Drink",Alcoholic,"Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.","Rum, Powdered sugar, Lemon peel, Water"
+616,Autodafé,"Ordinary Drink",Alcoholic,"Mix and fill up with soda water. Drunk by finns on a sunny day any time of the year and day.","Vodka, Lime juice, Soda water"
+617,"Lunch Box",Beer,Alcoholic,"Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.","Beer, Amaretto, Orange juice"
+618,Greyhound,Cocktail,Alcoholic,"Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+","Vodka, Grapefruit Juice"
+619,Gluehwein,"Punch / Party Drink","Optional alcohol","Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.","Red wine, Water, Sugar, Cinnamon, Cloves, Lemon peel"
+620,"Jam Donut",Shot,Alcoholic,"Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.","Baileys irish cream, Chambord raspberry liqueur, Sugar syrup, Sugar"
+621,Mauresque,Cocktail,Alcoholic,"1 - Pour the Ricard (or pastis)
+2 - Pour the orgeat syrup
+3 - Finally pour the water and add ice cubes at your convenience.
+
+Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.","Ricard, Orgeat Syrup, Water"
+622,Barracuda,"Ordinary Drink",Alcoholic,"Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.","Rum, Galliano, Pineapple Juice, Lime Juice, Prosecco"
+623,"Old Cuban",Cocktail,Alcoholic,"Shake a handful of mint, 2oz white rum, 1oz of sugar syrup, 1oz lime juice and 2 dashes angostura bitters with ice. Double strain into a glass and top with 2oz of prosecco.","White Rum, Sugar Syrup, Lime Juice, Angostura Bitters, Prosecco"
+624,Jitterbug,Cocktail,Alcoholic,"Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!","Gin, Vodka, Grenadine, Lime juice, Sugar, Sugar syrup, Soda water"
+625,"Queen Bee","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Coffee brandy, Lime vodka, Sherry"
+626,Vesper,Cocktail,Alcoholic,"Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.","Gin, Vodka, Lillet Blanc"
+627,Victor,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Sweet Vermouth, Brandy"
+628,Avalon,"Ordinary Drink",Alcoholic,"Fill a tall glass with ice. Layer the Finlandia Vodka, lemon and apple juices, Pisang Ambon, and top up with lemonade. Stir slightly and garnish with a spiralled cucumber skin and a red cherry. The cucumber provides zest and looks attractive. This drink, created by Timo Haimi, took first prize in the 1991 Finlandia Vodka Long Drink Competition.","Vodka, Pisang Ambon, Apple juice, Lemon juice, Lemonade"
+629,Vesuvio,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.","Light rum, Sweet Vermouth, Lemon, Powdered sugar, Egg white"
+630,Veteran,"Ordinary Drink",Alcoholic,"Pour the rum and cherry brandy into an old-fashioned glass almost filled with ice cubes. Stir well.","Dark rum, Cherry brandy"
+631,Vampiro,"Ordinary Drink",Alcoholic,"Vampiros may be made in a tall glass or an old fashioned glass. Bartenders may first "rim" the glass with Kosher Salt, which is done by placing a layer of Kosher Salt on a chopping board, moistening the glass' rim with lime juice or water, and then placing the upside down glass rim onto the Kosher Salt, so that the salt sticks to the moistened rim. The second step is to fill half the glass with ice and add one or two shooter glasses full of high quality Tequila. The next stage is to add the flavouring elements. This is done by squeezing a fresh lime into the glass, adding a few grains of salt, adding citrus-flavoured soda pop, until the glass is 4/5 full, and then adding spicy Viuda de Sanchez (or orange juice, lime juice and pico de gallo). The final step is to stir the ingredients so that the flavours are properly blended.","Tequila, Tomato Juice, Orange Juice, Lime Juice, Sugar Syrup, Salt"
+632,Aviation,Cocktail,Alcoholic,"Add all ingredients into cocktail shaker filled with ice. Shake well and strain into cocktail glass. Garnish with a cherry.","Gin, lemon juice, maraschino liqueur"
+633,"Van Vleet","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into an old-fashioned glass over ice cubes, and serve.","Light rum, Maple syrup, Lemon juice"
+634,Avalanche,Shake,Alcoholic,"Mix in highball glass over ice, shake well.","Crown Royal, Kahlua, Cream"
+635,"Vodka Fizz","Other / Unknown",Alcoholic,"Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.","Vodka, Half-and-half, Limeade, Ice, Nutmeg"
+636,"Adam & Eve",Cocktail,Alcoholic,"Shake together all the ingredients and strain into a cold glass.","Gin, Cognac, Creme de Cassis, Fresh Lemon Juice"
+637,"Cafe Savoy","Coffee / Tea",Alcoholic,"Fill mug almost to top with coffee.Add milk, triple sec and brandy. Stir.","Coffee, Milk, Triple sec, Brandy"
+638,"Long vodka","Ordinary Drink",Alcoholic,"Shake a tall glass with ice cubes and Angostura, coating the inside of the glass. Por the vodka onto this, add 1 slice of lime and squeeze juice out of remainder, mix with tonic, stir and voila you have a Long Vodka","Vodka, Lime, Angostura bitters, Tonic water, Ice"
+639,"After Five",Shot,Alcoholic,"1. Pour Kahlua into shot glass to about 1/2 full. 2. Using a spoon(inverted), slowly pour in the Peppermint Schnapps until glass is about 3/4 full. Done correctly, the Schnapps will flow under the Kahlua for a clear layer. 3. Again using a spoon, but this time right side up, slowly top off the glass with a layer of Bailey's. Be careful to place the spoon right at the top of the Kahlua layer and to raise it as the glass fills up. Done correctly, this will provide a layer of Bailey's floating over the Kahlua. 4. Toss it down all at once for something like a Peppermint Pattie, WITH A BANG!!! NOTE: Best if all ingredients are chilled","Peppermint schnapps, Kahlua, Baileys irish cream"
+640,"Miami Vice",Cocktail,Alcoholic,"First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together).","151 proof rum, Pina colada mix, Daiquiri mix"
+641,"Vodka Slime",Cocktail,Alcoholic,"Fill glass with ice. Add vodka, 7-up then finish with the lime juice.","Sprite, Lime Juice, Vodka"
+642,"Vodka Tonic",Cocktail,Alcoholic,"Wash and cut 1 wedge and 1 slice of lime or lemon.
+Fill a tumbler with fresh ice.
+Pour the desired dose of vodka and top up with the tonic.
+Squeeze the lime wedge into the glass and decorate with the slice.
+That's all, very simple: it's just the recipe for happiness!","Vodka, Tonic Water, Lemon Peel"
+643,"Vodka Lemon",Cocktail,Alcoholic,"The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.","Vodka, Lemon Juice, Lemon Peel, Ice"
+644,Screwdriver,"Ordinary Drink",Alcoholic,"Mix in a highball glass with ice. Garnish and serve.","Vodka, Orange juice"
+645,"Clover Club","Ordinary Drink",Alcoholic,"Dry shake ingredients to emulsify, add ice, shake and served straight up.","Gin, Grenadine, Lemon, Egg white"
+646,Boulevardier,Cocktail,Alcoholic,"Stir with ice, strain, garnish and serve.","Campari, Sweet Vermouth, Rye whiskey, Orange Peel"
+647,Coffee-Vodka,"Homemade Liqueur",Alcoholic,"Boil water and sugar until dissolved. Turn off heat. Slowly add dry instant coffee and continue stirring. Add a chopped vanilla bean to the vodka, then combine the cooled sugar syrup and coffee solution with the vodka. Cover tightly and shake vigorously each day for 3 weeks. Strain and filter. Its also best to let the sugar mixture cool completely so the vodka won't evaporate when its added. If you like a smoother feel to the liqueur you can add about 1 teaspoon of glycerine to the finished product.","Water, Sugar, Coffee, Vanilla, Vodka, Caramel coloring"
+648,"Arise My Love","Ordinary Drink",Alcoholic,"Put creme de menthe into a champagne flute. Fill with chilled champagne and serve.","Champagne, Green Creme de Menthe"
+649,"Vodka Russian","Ordinary Drink",Alcoholic,"Mix it as a ordinary drink .","Vodka, Schweppes Russchian"
+650,"Vodka Martini","Ordinary Drink",Alcoholic,"Shake the vodka and vermouth together with a number of ice cubes, strain into a cocktail glass, add the olive and serve.","Vodka, Dry Vermouth, Olive"
+651,Snowday,Cocktail,Alcoholic,"Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.","Vodka, Amaro Montenegro, Ruby Port, Blood Orange, Angostura Bitters, Orange Peel"
+652,Snowball,"Ordinary Drink",Alcoholic,"Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.","Advocaat, Lemonade, Lemon, Ice"
+653,Downshift,"Punch / Party Drink",Alcoholic,"Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.","Fruit punch, Sprite, Tequila, 151 proof rum"
+654,Afterglow,Cocktail,"Non alcoholic","Mix. Serve over ice.","Grenadine, Orange juice, Pineapple juice"
+655,Gluehwein,"Punch / Party Drink","Optional alcohol","Boil sugar and spices in water, leave in the water for 30 minutes. Strain the spiced water and mix with the wine. Heat slowly until short of boiling temperature. (To remove alcohol, let it boil for a while.) You may add lemon or orange juice to taste. Serve in irish coffee cup.","Red wine, Water, Sugar, Cinnamon, Cloves, Lemon peel"
+656,"White Lady","Ordinary Drink",Alcoholic,"Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.","Gin, Triple Sec, Lemon Juice"
+657,"Kiwi Lemon","Ordinary Drink",Alcoholic,"Mix in highball glass. Stirr. Garnish with slice of kiwi.","Kiwi liqueur, Bitter lemon, Ice"
+658,"Wine Punch","Punch / Party Drink",Alcoholic,"Combine all of the ingredients and pour over a block of ice.","Red wine, Lemon, Orange juice, Orange, Pineapple juice"
+659,"Whisky Mac","Ordinary Drink",Alcoholic,"Pour both of the ingredients into a wine goblet with no ice.","Scotch, Wine"
+660,"3 Wise Men",Shot,Alcoholic,"put them them in a glass... and slam it to tha head.","Jack Daniels, Johnnie Walker, Jim Beam"
+661,"Moscow Mule","Punch / Party Drink",Alcoholic,"Combine vodka and ginger beer in a highball glass filled with ice. Add lime juice. Stir gently. Garnish.","Vodka, Lime juice, Ginger ale"
+662,"Gin Swizzle","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the lime juice, sugar, gin, and bitters. Shake well. Almost fill a colling glass with ice cubes. Stir until the glass is frosted. Strain the mixture in the shaker into the glass and add the club soda.","Lime juice, Sugar, Gin, Bitters, Club soda"
+663,"Yellow Bird",Cocktail,Alcoholic,"Shake and strain into a chilled cocktail glass","White Rum, Galliano, Triple Sec, Lime Juice"
+664,"London Town","Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Gin, Maraschino liqueur, Orange bitters"
+665,"Orange Whip","Other / Unknown",Alcoholic,"Pour ingredients over ice and stir.","Orange juice, Rum, Vodka, Cream, Ice"
+666,"Sweet Tooth",Shake,Alcoholic,"Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.","Godiva liqueur, Milk"
+667,Screwdriver,"Ordinary Drink",Alcoholic,"Mix in a highball glass with ice. Garnish and serve.","Vodka, Orange juice"
+668,"Mulled Wine","Punch / Party Drink",Alcoholic,"Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a "coffee temperature" (DO NOT BOIL) then add the brandy.","Water, Sugar, Cloves, Cinnamon, Lemon peel, Red wine, Brandy"
+669,"Wine Cooler","Punch / Party Drink","Optional alcohol","Mix wine and soft drink. Pour into glass. Add ice.","Red wine, Lemon-lime soda, Ice"
+670,"Winter Rita",Beer,Alcoholic,"Salt rim. Combine all ingredients, shake with ice, and strain over fresh ice.⠀","Tequila, Campari, Lime Juice, Orange Juice, Rosemary Syrup, Salt"
+671,"9 1/2 Weeks",Cocktail,Alcoholic,"Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.","Absolut Citron, Orange Curacao, Strawberry liqueur, Orange juice"
+672,"Whiskey Sour","Ordinary Drink",Alcoholic,"Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.","Blended whiskey, Lemon, Powdered sugar, Cherry, Lemon"
+673,"Kiwi Martini",Cocktail,Alcoholic,"The kiwi martini is a very fun vodka cocktail and it is one of the best drinks that makes use of fresh fruit. Though there are a few recipes floating around, this is one of the easiest and it is an absolutely delightful green martini to drink.
+
+For this recipe, you'll simply muddle slices of kiwi with simple syrup, then shake it with vodka. It's a drink that anyone can mix up in minutes and a perfect cocktail to show off your favorite vodka.","Kiwi, Sugar Syrup, Vodka, Kiwi"
+674,"Monkey Wrench","Ordinary Drink",Alcoholic,"Pour all of the ingredients into an old-fashioned glass almost filled with ice cubes. Stir well.","Light rum, Grapefruit juice, Bitters"
+675,"New York Sour","Ordinary Drink",Alcoholic,"Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.","Blended whiskey, Lemon, Sugar, Red wine, Lemon, Cherry"
+676,Boxcar,"Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.","Gin, Triple sec, Lemon juice, Grenadine, Egg white"
+677,Alexander,"Ordinary Drink",Alcoholic,"Shake all ingredients with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.","Gin, Creme de Cacao, Light cream, Nutmeg"
+678,"Foxy Lady","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Amaretto, Creme de Cacao, Light cream"
+679,"Lunch Box",Beer,Alcoholic,"Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.","Beer, Amaretto, Orange juice"
+680,"After sex","Ordinary Drink",Alcoholic,"Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar","Vodka, Creme de Banane, Orange juice"
+681,"Absolut Sex",Shot,Alcoholic,"Shake Absolut Kurant, Midori, and Cranberry juice in shaker with ice: Strain into rocks glass: Splash of seven on top.Absolut Sex.","Absolut Kurant, Midori melon liqueur, Cranberry juice, Sprite"
+682,"Texas Sling",Shake,Alcoholic,"Blend with Ice until smooth. Serve in a tulip glass, top with whip cream.","Kahlua, Irish cream, Amaretto, 151 proof rum, Cream"
+683,"Mojito Extra",Cocktail,Alcoholic,"Put mint with lemon juice in a glas, mash the mint with a spoon, ice, rum & fill up with club soda. Top it with Angostura.","Mint, Lemon juice, Dark rum, Club soda, Angostura bitters"
+684,"Midnight Manx","Ordinary Drink",Alcoholic,"Fill a mixer with ice and add Baileys, Kahlua, Goldshlager, and cream. Shake for 5 seconds and Strain into a double rocks glass filled with ice. Add chilled coffee Stir and enjoy!","Kahlua, Baileys irish cream, Goldschlager, Heavy cream, Coffee"
+685,"Tuxedo Cocktail","Ordinary Drink",Alcoholic,"Stir all ingredients with ice and strain into a cocktail glass. Garnish with a cherry and a twist of lemon zest.","Dry Vermouth, Gin, Maraschino liqueur, Anis, Orange bitters, Cherry"
+686,"Brandy Alexander","Ordinary Drink",Alcoholic,"Shake all ingredients (except nutmeg) with ice and strain contents into a cocktail glass. Sprinkle nutmeg on top and serve.","Brandy, Creme de Cacao, Light cream, Nutmeg"
+687,"Sex on the Beach","Ordinary Drink",Alcoholic,"Build all ingredients in a highball glass filled with ice. Garnish with orange slice.","Vodka, Peach schnapps, Cranberry juice, Orange juice"
+688,"Texas Rattlesnake",Shot,Alcoholic,"Mix all ingredients and Shake well. Sweet at first, with a BITE at the end...","Yukon Jack, Cherry brandy, Southern Comfort, Sweet and sour"
+689,Melya,"Coffee / Tea","Non alcoholic","Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.","Espresso, Honey, Cocoa powder"
+690,Derby,"Ordinary Drink",Alcoholic,"Pour all ingredients into a mixing glass with ice. Stir. Strain into a cocktail glass. Garnish with a sprig of fresh mint in the drink.","gin, Peach Bitters, Mint"
+691,Snowday,Cocktail,Alcoholic,"Stir all ingredients with ice. Strain into a chilled rocks glass over fresh ice. Express orange peel over drink and garnish.","Vodka, Amaro Montenegro, Ruby Port, Blood Orange, Angostura Bitters, Orange Peel"
+692,Brooklyn,Cocktail,Alcoholic,"Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.","Rye Whiskey, Dry Vermouth, Maraschino Liqueur, Angostura Bitters, Maraschino Cherry"
+693,Affinity,"Ordinary Drink",Alcoholic,"In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.","Scotch, Sweet Vermouth, Dry Vermouth, Orange bitters"
+694,Allegheny,"Ordinary Drink",Alcoholic,"Shake all ingredients (except lemon peel) with ice and strain into a cocktail glass. Top with the twist of lemon peel and serve.","Dry Vermouth, Bourbon, Blackberry brandy, Lemon juice, Lemon peel"
+695,Greyhound,Cocktail,Alcoholic,"Add the vodka to a Collins glass filled with ice.
+Top with grapefruit juice and stir.
+
+","Vodka, Grapefruit Juice"
+696,"Honey Bee",Cocktail,Alcoholic,"Shake ingredients with crushed ice
+","White Rum, Honey, Lemon Juice"
+697,Artillery,"Ordinary Drink",Alcoholic,"Stir all ingredients with ice, strain into a cocktail glass, and serve.","Sweet Vermouth, Gin, Bitters"
+698,"Pink Lady","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Gin, Grenadine, Light cream, Egg white"
+699,Tipperary,Cocktail,Alcoholic,"Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and express the orange oils over the drink. Discard orange twist.","Irish Whiskey, Sweet Vermouth, Green Chartreuse"
+700,"Salty Dog","Ordinary Drink",Alcoholic,"Pour all ingredients over ice cubes in a highball glass. Stir well and serve. (Vodka may be substituted for gin, if preferred.)","Grapefruit juice, Gin, Salt"
+701,Dragonfly,"Ordinary Drink",Alcoholic,"In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.","Gin, Ginger ale, Lime"
+702,"Foxy Lady","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.","Amaretto, Creme de Cacao, Light cream"
+703,"Gin Daisy","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.","Gin, Lemon juice, Sugar, Grenadine, Maraschino cherry, Orange"
+704,"Gin Toddy","Ordinary Drink",Alcoholic,"Mix powdered sugar and water in an old-fashioned glass. Add gin and one ice cube. Stir, add the twist of lemon peel, and serve.","Gin, Water, Powdered sugar, Lemon peel"
+705,"Rum Toddy","Ordinary Drink",Alcoholic,"Dissolve powdered sugar in water in an old-fashioned glass. Add rum and one ice cube and stir. Add the twist of lemon peel and serve.","Rum, Powdered sugar, Lemon peel, Water"
+706,"Hot Toddy",Cocktail,Alcoholic,"STEP 1
+Whisk the whisky and honey together and split between 2 heatproof glasses. Add half of the cinnamon stick to each, then top up with 200ml boiling water.
+
+STEP 2
+Add a splash of lemon juice to each, then taste and add more to your preference. Finish each with a slice of lemon, studded with a clove, and serve immediately.","Whiskey, Honey, Cinnamon, lemon, Cloves"
+707,"Bob Marley",Shot,Alcoholic,"Layer in a 2 oz shot glass or pony glass","Midori melon liqueur, Jägermeister, Goldschlager"
+708,"Almond Joy","Ordinary Drink",Alcoholic,"Shake all ingredients with ice, strain into a cocktail glass, and serve.","Amaretto, Creme de Cacao, Light cream"
+709,"Kir Royale","Ordinary Drink",Alcoholic,"Pour Creme de cassis in glass, gently pour champagne on top","Creme de Cassis, Champagne"
+710,"Gin Rickey",Cocktail,Alcoholic,"Half-fill a tall glass with ice. Mix the gin and Grenadine together and pour over the ice. Add the lime or lemon juice and top off with soda water. Decorate the glass with lime and/or lemon slices.","Gin, Grenadine, lemon, Soda Water, Lime"
+711,"Rusty Nail","Ordinary Drink",Alcoholic,"Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.","Scotch, Drambuie, Lemon peel"
+712,"White Lady","Ordinary Drink",Alcoholic,"Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.","Gin, Triple Sec, Lemon Juice"
+713,"Royal Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.","Gin, Sweet and sour, Egg, Coca-Cola"
+714,Zorro,"Coffee / Tea",Alcoholic,"add all and pour black coffee and add whipped cream on top.","Sambuca, Baileys irish cream, White Creme de Menthe"
+715,Spritz,"Ordinary Drink",Alcoholic,"Build into glass over ice, garnish and serve.","Prosecco, Campari, Soda Water"
+716,Zoksel,"Soft Drink",Alcoholic,"No specific mixing instructions, just poor every ingredient in one glass. The lemon goes with it.","Beer, Root beer, Lemonade, Coca-Cola, 7-Up, Creme de Cassis, Lemon"
+717,Zombie,Cocktail,Alcoholic,"Blend at high speed for no more than 5 seconds.
+
+Pour into a glass, add ice cubes to fill, then add the garnish.
+
+*Donn’s mix: Bring 3 crushed cinnamon sticks, 1 cup of sugar and 1 cup of water to a boil, stirring until the sugar is dissolved.
+
+Simmer for 2 minutes, then remove from the heat and let sit for at least 2 hours before straining into a clean glass bottle.
+
+Then add 1 part of the syrup and 2 parts of fresh grapefruit juice together.","Rum, Gold rum, 151 proof rum, Pernod, Grenadine, Lime Juice, Angostura Bitters"
+718,Zinger,"Soft Drink",Alcoholic,"Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.","Peachtree schnapps, Surge"
+719,Zambeer,"Soft Drink",Alcoholic,"Mix sambuca with rootbeer and stir. Add ice","Sambuca, Root beer, Ice"
+720,Sazerac,"Ordinary Drink",Alcoholic,"Rinse a chilled old-fashioned glass with the absinthe, add crushed ice, and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Add the lemon peel for garnish.","Ricard, Sugar, Peychaud bitters, Water, Bourbon, Lemon peel"
+721,"Gin Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients with ice cubes, except soda water. Pour into glass. Top with soda water.","Gin, Lemon, Powdered sugar, Carbonated water"
+722,Kamikaze,"Ordinary Drink",Alcoholic,"Shake all ingredients together with ice. Strain into glass, garnish and serve.","Vodka, Triple sec, Lime juice"
+723,Zorbatini,Cocktail,Alcoholic,"Prepare like a Martini. Garnish with a green olive.","Vodka, Ouzo"
+724,"Vodka Fizz","Other / Unknown",Alcoholic,"Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.","Vodka, Half-and-half, Limeade, Ice, Nutmeg"
+725,"Royal Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.","Gin, Sweet and sour, Egg, Coca-Cola"
+726,"Martinez 2",Cocktail,Alcoholic,"Add all ingredients to a mixing glass and fill with ice.
+
+Stir until chilled, and strain into a chilled coupe glass.","Gin, Sweet Vermouth, Maraschino Liqueur, Angostura Bitters"
+727,"Sea breeze","Ordinary Drink",Alcoholic,"Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.","Vodka, Cranberry juice, Grapefruit juice"
+728,Zipperhead,Shot,Alcoholic,"Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top).","Chambord raspberry liqueur, Vodka, Soda water"
+729,Zenmeister,"Ordinary Drink",Alcoholic,"Mix together and enjoy","Jägermeister, Root beer"
+730,"Gin Swizzle","Ordinary Drink",Alcoholic,"In a shaker half-filled with ice cubes, combine the lime juice, sugar, gin, and bitters. Shake well. Almost fill a colling glass with ice cubes. Stir until the glass is frosted. Strain the mixture in the shaker into the glass and add the club soda.","Lime juice, Sugar, Gin, Bitters, Club soda"
+731,"Aztec Punch","Punch / Party Drink",Alcoholic,"Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don't over do it.","Lemonade, Vodka, Rum, Ginger ale"
+732,"Chicago Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.","Light rum, Port, Lemon, Powdered sugar, Egg white, Carbonated water"
+733,"Zima Blaster","Ordinary Drink",Alcoholic,"Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.","Zima, Chambord raspberry liqueur"
+734,"Tequila Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except ginger ale) with ice and strain into a collins glass over ice cubes. Fill with ginger ale, stir, and serve.","Tequila, Lemon juice, Grenadine, Egg white, Ginger ale"
+735,"Grizzly Bear","Ordinary Drink",Alcoholic,"Served over ice. Sounds nasty, but tastes great.","Amaretto, Jägermeister, Kahlua, Milk"
+736,"Imperial Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.","Light rum, Blended whiskey, Lemon, Powdered sugar, Carbonated water"
+737,"Japanese Fizz","Ordinary Drink",Alcoholic,"Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.","Blended whiskey, Lemon, Powdered sugar, Port, Egg white, Carbonated water"
+738,"Fuzzy Asshole","Coffee / Tea",Alcoholic,"fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot.","Coffee, Peach schnapps"

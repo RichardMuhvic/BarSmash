@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bar Smash</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="js/script.js"></script>
+    <!--script src="js/test.js"></script>-->
+</head>
+<body>
+    <header>
+        <div class="logo_image">
+            <img src="images/shaker_logo_sansfond.png" alt="logo barsmash">
+            <div class="logo">Bar Smash</div>
+        </div>
+        <h1>Recherchez votre cocktail !</h1>
+        <nav>
+            <a href="contact.html" class="contact-button">📩 Contact</a>
+            <a href="barsmashpro.html" class="barsmashpro-button">🍸 BarSmash PRO</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="search-bar">
+            <input type="text" id="search-cocktail" placeholder="Ex. : Mojito, Margarita...">
+            <button id="search-button">🔍 Rechercher</button>
+        </section>
+    
+        <section class="filters">
+            <div class="dropdown_1">
+                <label for="alcohol-type">Type :</label>
+                <select id="alcohol-type">
+                    <option value="with-alcohol">Avec alcool</option>
+                    <option value="no-alcohol">Sans alcool</option>
+                </select>
+            </div>
+
+            <div class="dropdown" id="alcohol-section">
+                <label>Alcools :</label>
+                <div id="alcohol-options" class="multi-select">
+                    <div class="option" data-value="vodka">Vodka</div>
+                    <div class="option" data-value="gin">Gin</div>
+                    <div class="option" data-value="rum">Rhum</div>
+                    <div class="option" data-value="tequila">Tequila</div>
+                    <div class="option" data-value="whisky">Whisky</div>
+                    <div class="option" data-value="cognac">Cognac</div>
+                    <div class="option" data-value="champagne">Champagne</div>
+                    <div class="option" data-value="absinthe">Absinthe</div>
+                    <div class="option" data-value="vermouth">Vermouth</div>
+                    <div class="option" data-value="triple-sec">Triple sec</div>
+                    <div class="option" data-value="amaretto">Amaretto</div>
+                    <div class="option" data-value="liqueurs">Liqueurs</div>
+                    <div class="option" data-value="mezcal">Mezcal</div>
+                    <div class="option" data-value="porto">Porto</div>
+                    <div class="option" data-value="brandy">Brandy</div>
+                    <div class="option" data-value="cidre">Cidre</div>
+                    <div class="option" data-value="pastis">Pastis</div>
+                    <div class="option" data-value="sake">Sake</div>
+                </div>
+            </div>
+
+            <div class="dropdown">
+                <label>Saveurs :</label>
+                <div id="flavors-options" class="multi-select">
+                    <div class="option" data-value="fruity">Fruité</div>
+                    <div class="option" data-value="acidic">Acide</div>
+                    <div class="option" data-value="sweet">Sucré</div>
+                    <div class="option" data-value="bitter">Amer</div>
+                    <div class="option" data-value="spicy">Épicé</div>
+                    <div class="option" data-value="salty">Salé</div>
+                    <div class="option" data-value="floral">Floral</div>
+                    <div class="option" data-value="herbaceous">Herbacé</div>
+                    <div class="option" data-value="creamy">Crémeux</div>
+                    <div class="option" data-value="smoky">Fumé</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="search-box">
+            <button class="find-cocktails">🍹 Trouver des cocktails</button>
+            <button id="random-cocktail" class="random-cocktail">🍸 Cocktail Surprise !</button>
+        </section>
+
+        <div id="random-result"></div>
+
+        <section class="results">
+            <h2>Résultats :</h2>
+            <div id="cocktail-list">
+                <!-- Les résultats des cocktails s'afficheront ici -->
+            </div>
+        </section>
+
+        <section class="prev-next">
+            <button id="prev-page">← Précédent</button>
+            <button id="next-page">Suivant →</button>
+        </section>
+
+        <!--<section class="add-cocktail">
+            <h2>Ajouter un cocktail</h2>
+            <form id="add-cocktail-form">
+                <input type="text" id="new-name" placeholder="Nom du cocktail" required>
+                <input type="text" id="new-ingredients" placeholder="Ingrédients (séparés par des virgules)" required>
+                <input type="text" id="new-flavor" placeholder="Saveur" required>
+                <select id="new-alcoholic">
+                    <option value="Alcoholic">Avec alcool</option>
+                    <option value="Non-Alcoholic">Sans alcool</option>
+                </select>
+                <button type="submit">Ajouter</button>
+            </form>
+            <p id="add-message"></p>
+        </section>-->
+    </main>
+
+    <footer>
+        <p>© 2025 Barsmash. Tous droits réservés.</p>
+    </footer>
+</body>
+</html>
