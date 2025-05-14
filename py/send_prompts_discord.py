@@ -2,10 +2,16 @@ import discord
 import asyncio
 import pandas as pd
 from discord.ext import commands
+import os
+from dotenv import load_dotenv  # ✅ nouvelle ligne
+
+load_dotenv()  # ✅ nouvelle ligne
+
 
 # 🔹 Remplace ces valeurs avec les tiennes 🔹
-TOKEN = "MTM0MjI2Njk2NTk3NjI4OTM3MA.Gbky73.jEKCcIA-W8ok8W_krSpTaaSZDu2FTnxI6fyz9M"  # ⚠️ Change ton token immédiatement ⚠️
-CHANNEL_ID = 1250766438055022615  # 🔹 Remplace avec l’ID du channel MidJourney
+import os
+TOKEN = os.getenv("MTM0MjI2Njk2NTk3NjI4OTM3MA.Gbky73.jEKCcIA-W8ok8W_krSpTaaSZDu2FTnxI6fyz9M") # ⚠️ Change ton token immédiatement ⚠️
+CHANNEL_ID = int(os.getenv("CHANNEL_ID")) # 🔹 Remplace avec l’ID du channel MidJourney
 
 # Charger le fichier CSV avec les prompts
 csv_file = "C:/xampp/htdocs/BarSmash/cocktail_prompts.csv"
