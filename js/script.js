@@ -214,3 +214,8 @@ function displayRandomCocktail(cocktail) {
         </div>
     `;
 }
+
+
+function closeWelcome() {
+  document.getElementById("welcomeOverlay").style.display = "none";
+}

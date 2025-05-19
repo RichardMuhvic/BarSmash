@@ -9,17 +9,47 @@
     <!--script src="js/test.js"></script>-->
 </head>
 <body>
+    <a href="https://buymeacoffee.com/richardmuhvic" 
+        target="_blank" 
+        class="bmc-float" 
+        aria-label="Support BarSmash on Buy Me a Coffee">
+        ☕ Buy Me a Coffee
+    </a>
+    
     <header>
         <div class="logo_image">
             <img src="images/shaker_logo_sansfond.png" alt="logo barsmash">
             <div class="logo">Bar Smash</div>
         </div>
-        <h1>Recherchez votre cocktail !</h1>
+        <div class="header-title">
+            <h1>Recherchez votre cocktail !</h1>
+            <!-- Bouton "Proposer une recette" juste sous le titre -->
+            <div>
+                <a href="https://tonlien.typeform.com" target="_blank" class="btn-proposer-recette">
+                    🍹 Proposer une recette
+                </a>
+            </div>
+        </div>
         <nav>
             <a href="contact.html" class="contact-button">📩 Contact</a>
             <a href="barsmashpro.html" class="barsmashpro-button">🍸 BarSmash PRO</a>
         </nav>
     </header>
+
+    <!-- Écran d'accueil superposé -->
+    <div id="welcomeOverlay" class="welcome-overlay">
+        <div class="welcome-content">
+            <button class="close-welcome" onclick="closeWelcome()">✖</button>
+            <div class="btn-typeform">
+                <p>Tu veux proposer une recette ?</p>
+                <a href="https://tonlien.typeform.com" 
+                    target="_blank" 
+                    class="btn-proposer-recette">
+                    🍹 Proposer une recette
+                </a>
+            </div>
+        </div>
+    </div>
 
     <main>
         <section class="search-bar">

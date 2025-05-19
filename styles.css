@@ -8,6 +8,119 @@ h1, h2, h3, button {
     letter-spacing: 1px; /* Espacement subtil pour un effet premium */
 }
 
+
+/* BUY ME A COFFEE */
+.bmc-float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ffdd00;
+    color: #111;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    padding: 12px 18px;
+    border-radius: 999px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+    z-index: 1000;
+}
+.bmc-float:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+}
+/* Bouton flottant */
+.btn-floating-suggest {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #ffcc00;
+  color: #111;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  padding: 12px 20px;
+  border-radius: 50px;
+  border: none;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  cursor: pointer;
+  z-index: 1000;
+  transition: transform 0.2s;
+}
+.btn-floating-suggest:hover {
+  transform: scale(1.05);
+}
+
+/* ecran d'accueil superposé */
+.welcome-overlay {
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.85);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.welcome-content {
+  position: relative;
+  max-width: 90%;
+  max-height: 90%;
+  flex-direction: column; /* Aligne verticalement */
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.close-welcome {
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  font-size: 20px;
+  background: #ffcc00;
+  color: #111;
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+.btn-typeform{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 50px;
+}
+.btn-typeform p{
+    display: block;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #fdf5dc;
+}
+.btn-proposer-recette {
+  display: block;
+  background-color: #ffcc00;
+  color: #111;
+  font-weight: bold;
+  padding: 12px 20px;
+  border-radius: 50px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease;
+  width: 250px;
+}
+.btn-proposer-recette:hover {
+  transform: scale(1.05);
+  background-color: #ffc400;
+}
+
+
 /* 🔹 Police pour le texte général */
 body, p {
     font-family: 'Raleway', sans-serif; /* Élégant et léger */
@@ -79,6 +192,11 @@ header img{
     box-shadow: 0 0 20px rgba(255, 152, 0, 0.8);
 }
 
+.header-title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 h1 {
     font-size: 30px;
     color: white;
