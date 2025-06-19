@@ -1,9 +1,9 @@
 <?php
 // Configuration de la connexion à la base de données
 $host = 'localhost';
-$username = 'root'; // Utilisateur par défaut pour XAMPP
-$password = ''; // Mot de passe par défaut pour XAMPP
-$dbname = 'barsmash_cocktailstr'; // Nom de la base de données
+$username 'fole1506_richardbarsmash'; // Utilisateur par défaut pour XAMPP
+$password = 'Love02/09/1988'; // Mot de passe par défaut pour XAMPP
+$dbname = 'fole1506_barsmash_database'; // Nom de la base de données
 
 // Connexion à MySQL
 $conn = new mysqli($host, $username, $password, $dbname);

@@ -4,7 +4,7 @@ window.onload = function() {
 
     // Création de l'image test
     const testImageElement = document.createElement('img');
-    testImageElement.src = "images/cocktails/martini.png";  // Change ici pour tester une image existante
+    testImageElement.src = "assets/images/cocktails/martini.png";  // Change ici pour tester une image existante
     testImageElement.alt = "Martini";
 
     // Création du texte

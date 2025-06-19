@@ -4,8 +4,22 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact | Bar Smash</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="icon" href="assets/images/barsmash_favicon.png" type="assets/images/png">
+    <link rel="manifest" href="manifest.webmanifest">
 </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YM68B9SPXW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YM68B9SPXW');
+</script>
+
 <body>
     <a href="https://buymeacoffee.com/richardmuhvic" 
         target="_blank" 
@@ -15,22 +29,31 @@
     </a>
     <header>
         <div class="logo_image">
-            <img src="images/shaker_logo_sansfond.png" alt="logo barsmash">
+            <img src="assets/images/logo_barsmash.png" alt="logo barsmash">
             <div class="logo">Bar Smash</div>
         </div>
         <h1>Recherchez votre cocktail !</h1>
         <nav>
             <a href="index.html" class="contact-button">🏠 Accueil</a>
-            <a href="barsmashpro.html" class="barsmashpro-button">🍸 BarSmash PRO</a>
+            <a href="barsmashpro.html" class="barsmashpro-button">🍸 Bar Smash PRO</a>
         </nav>
     </header>
 
     <main>
         <section class="contact-container">
-            <h1>Contactez-nous</h1>
-            <p>Une question ?<br> Une suggestion ?<br> Écrivez-nous !</p>
+            <h1>Ton avis sur Bar Smash ?</h1>
+            <p>Une question ? Une suggestion ? Écris-nous !</p>
 
-            <form action="php/contact.php" method="POST">
+            <div class="feedback-form">
+                <iframe 
+                src="https://tally.so/r/wkxpoR" 
+                width="100%" 
+                height="500" 
+                frameborder="0" 
+                title="Feedback BarSmash"
+                ></iframe>
+            </div>
+            <!--<form action="php/contact.php" method="POST">
                 <label for="name">Nom :</label>
                 <input type="text" id="name" name="name" required>
 
@@ -40,14 +63,14 @@
                 <label for="message">Message :</label>
                 <textarea id="message" name="message" required></textarea>
 
-                <!-- Champ Honeypot caché pour bloquer les bots -->
+                Champ Honeypot caché pour bloquer les bots
                 <input type="text" name="honeypot" style="display: none;">
 
-                <!-- CAPTCHA Google -->
+                CAPTCHA Google
                 <div class="g-recaptcha" data-sitekey="VOTRE_SITE_KEY"></div>
 
-                <button type="submit">📩 Envoyer</button>
-            </form>
+                <button type="submit"> Envoyer</button>
+            </form>-->
         </section>
     </main>
 

@@ -4,10 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bar Smash</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="assets/images/barsmash_favicon.png" type="assets/images/png">
     <script defer src="js/script.js"></script>
     <!--script src="js/test.js"></script>-->
+    <link rel="manifest" href="manifest.webmanifest">
 </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YM68B9SPXW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-YM68B9SPXW');
+</script>
+
 <body>
     <a href="https://buymeacoffee.com/richardmuhvic" 
         target="_blank" 
@@ -18,38 +31,55 @@
     
     <header>
         <div class="logo_image">
-            <img src="images/shaker_logo_sansfond.png" alt="logo barsmash">
+            <img src="assets/images/logo_barsmash.png" alt="logo barsmash">
             <div class="logo">Bar Smash</div>
         </div>
+        
         <div class="header-title">
             <h1>Recherchez votre cocktail !</h1>
             <!-- Bouton "Proposer une recette" juste sous le titre -->
             <div>
-                <a href="https://tonlien.typeform.com" target="_blank" class="btn-proposer-recette">
-                    🍹 Proposer une recette
+                <a href="https://form.typeform.com/to/IsU5pVK9" target="_blank" class="btn-proposer-recette">
+                    🍹 Recevoir des recettes
                 </a>
             </div>
         </div>
         <nav>
             <a href="contact.html" class="contact-button">📩 Contact</a>
-            <a href="barsmashpro.html" class="barsmashpro-button">🍸 BarSmash PRO</a>
+            <a href="barsmashpro.html" class="barsmashpro-button">🍸 Bar Smash PRO</a>
         </nav>
     </header>
 
+<!-- TRAVAUX SITE -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+        <h2>Bar Smash<br> continue de s'améliorer...</h2>
+        <p>L'application est presque terminée.<br><br>
+            Les photos des cocktails ne sont pas contractuelles pour le moment.<br>
+            Je dois attendre de créer un compte MidJourney pour générer plus de 1000 images de cocktails...<br><br>
+            1000 cocktails = 1000 prompts à générer! Ça fait beaucoup de travail.<br>
+            Vous pouvez m'encourager en participant au projet!<br><br>
+            <a href="https://buymeacoffee.com/richardmuhvic" target="_blank" class="bmc-popup" >C'est notre projet!</a><br><br>
+            Contactez-moi pour toute remarque pouvant aider votre expérience sur cette application.
+        </p>
+        <button id="enterButton">Entrer</button>
+        </div>
+    </div>
+
     <!-- Écran d'accueil superposé -->
-    <div id="welcomeOverlay" class="welcome-overlay">
+    <!--<div id="welcomeOverlay" class="welcome-overlay">
         <div class="welcome-content">
             <button class="close-welcome" onclick="closeWelcome()">✖</button>
             <div class="btn-typeform">
                 <p>Tu veux proposer une recette ?</p>
-                <a href="https://tonlien.typeform.com" 
+                <a href="https://form.typeform.com/to/IsU5pVK9" 
                     target="_blank" 
                     class="btn-proposer-recette">
-                    🍹 Proposer une recette
+                    🍹 Recevoir des recettes
                 </a>
             </div>
         </div>
-    </div>
+    </div>-->
 
     <main>
         <section class="search-bar">

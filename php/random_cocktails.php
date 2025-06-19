@@ -3,9 +3,9 @@ header('Content-Type: application/json');
 
 // Connexion à la base de données
 $host = 'localhost';
-$dbname = 'barsmash_cocktails';
-$username = 'root';
-$password = '';
+$dbname = 'fofe1506_barsmash_database';
+$username = 'fofe1506_richardbarsmash';
+$password = 'Love02/09/1988';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password, [

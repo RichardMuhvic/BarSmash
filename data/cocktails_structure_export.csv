@@ -1,0 +1,10 @@
+Table,"Create Table"
+cocktails,"CREATE TABLE `cocktails` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(255) NOT NULL,
+  `category` varchar(255) DEFAULT NULL,
+  `alcoholic` varchar(255) DEFAULT NULL,
+  `instructions` text DEFAULT NULL,
+  `ingredients` text DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=739 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci"

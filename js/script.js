@@ -50,7 +50,7 @@ document.getElementById("search-button").addEventListener("click", function() {
 
                     // Vérification et correction du chemin de l'image
                     // Correction du chemin pour correspondre au bon dossier
-                    let imageSrc = cocktail.image ? `/BarSmash/${cocktail.image}` : "/BarSmash/images/default-placeholder.png";
+                    let imageSrc = cocktail.image ? `/assets/images/cocktails/${cocktail.image}` : "/assets/images/default-placeholder.png";
                     console.log("🖼️ Chemin de l'image :", imageSrc);
 
                     // Création de l'élément image
@@ -69,7 +69,8 @@ document.getElementById("search-button").addEventListener("click", function() {
                         <h3>${cocktail.name}</h3>
                         <p>Alcool : ${cocktail.alcoholic || 'Sans alcool'}</p>
                         <p>Saveur : ${cocktail.flavor}</p>
-                        <p>${cocktail.instructions}</p>
+                        <p>Ingrédients :${cocktail.ingredients}</p>
+                        <p>Instructions :${cocktail.instructions}</p>
                     `;
 
                     // Ajout de l'image et du texte dans la carte cocktail
@@ -126,7 +127,7 @@ document.querySelector('.find-cocktails').addEventListener('click', (event) => {
                 const cocktailElement = document.createElement('div');
                 cocktailElement.classList.add('cocktail');
 
-                let imageSrc = cocktail.image ? `/${cocktail.image}` : "/images/default-placeholder.png";
+                let imageSrc = cocktail.image ? `/assets/images/cocktails/${cocktail.image}` : "/assets/images/cocktails/img9.png";
                 console.log("🖼️ Chemin de l'image :", imageSrc);
 
                 const imageElement = document.createElement('img');
@@ -142,7 +143,8 @@ document.querySelector('.find-cocktails').addEventListener('click', (event) => {
                     <h3>${cocktail.name}</h3>
                     <p>Alcool : ${cocktail.alcoholic || 'Sans alcool'}</p>
                     <p>Saveur : ${cocktail.flavor}</p>
-                    <p>${cocktail.instructions}</p>
+                    <p>Ingrédients : ${cocktail.ingredients}</p>
+                    <p>Instructions : ${cocktail.instructions}</p>
                 `;
 
                 cocktailElement.appendChild(imageElement);
@@ -156,7 +158,7 @@ document.querySelector('.find-cocktails').addEventListener('click', (event) => {
     })
     .catch(error => {
         console.error('❌ Erreur :', error);
-        document.getElementById('cocktail-list').innerHTML = '<p>Une erreur est survenue lors de la recherche.</p>';
+        document.getElementById('cocktail-list').innerHTML = '<p>Bar Smash pourra prochainement te donner une liste de cocktails en fonction des saveurs choisies ;)</p>';
     });
 });
 
@@ -179,7 +181,7 @@ document.getElementById("prev-page").addEventListener("click", () => {
 
 // 🔹 Gestion du bouton "Cocktail Surprise"
 document.getElementById("random-cocktail").addEventListener("click", function () {
-    const url = "/barsmash/php/random_cocktails.php?random=true";
+    const url = "./php/random_cocktails.php?random=true";
     console.log("Requête envoyée à :", url);
 
     fetch(url)
@@ -193,22 +195,23 @@ document.getElementById("random-cocktail").addEventListener("click", function ()
         })
         .catch(error => {
             console.error("Erreur Fetch :", error);
-            document.getElementById("random-result").innerHTML = "<p>Une erreur s'est produite. Vérifiez la console.</p>";
+            document.getElementById("random-result").innerHTML = "<p>Bar Smash te renverra bientôt un cocktail surprise dans la prochaine version.</p>";
         });
 });
 
 function displayRandomCocktail(cocktail) {
     const resultContainer = document.getElementById("random-result");
 
-    const placeholderImage = "https://source.unsplash.com/400x300/?cocktail,drink";
+    const cocktailImage = cocktail.image ? `/assets/images/cocktails/${cocktail.image}` : "/assets/images/default-placeholder.png";
 
     resultContainer.innerHTML = `
         <div class="cocktail-card">
-            <img src="${placeholderImage}" alt="Cocktail image" class="cocktail-img">
+            <img src="${cocktailImage}" alt="Cocktail image" class="cocktail-img">
             <div class="cocktail-info">
                 <h3>${cocktail.name}</h3>
                 <p><strong>Type :</strong> ${cocktail.alcoholic}</p>
                 <p><strong>Saveur :</strong> ${cocktail.flavor}</p>
+                <p><strong>Ingrédients :</strong> ${cocktail.ingredients}</p>
                 <p><strong>Instructions :</strong> ${cocktail.instructions}</p>
             </div>
         </div>
@@ -218,4 +221,27 @@ function displayRandomCocktail(cocktail) {
 
 function closeWelcome() {
   document.getElementById("welcomeOverlay").style.display = "none";
+}
+
+
+//Fenêtre MODALE//
+document.addEventListener("DOMContentLoaded", () => {
+  const modal = document.getElementById("modal");
+  const enterButton = document.getElementById("enterButton");
+
+  enterButton.addEventListener("click", () => {
+    modal.style.display = "none";
+  });
+});
+
+
+//Service worker :
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/service-worker.js')
+    .then(function(registration) {
+      console.log('Service Worker enregistré avec succès:', registration);
+    })
+    .catch(function(error) {
+      console.log('Échec de l\'enregistrement du Service Worker:', error);
+    });
 }

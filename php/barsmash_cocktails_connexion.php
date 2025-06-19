@@ -3,9 +3,9 @@ header('Content-Type: application/json');
 
 // Connexion à la base de données
 $host = 'localhost';
-$dbname = 'barsmash_cocktails';
-$username = 'root';
-$password = '';
+$dbname = 'fofe1506_barsmash_database';
+$username = 'fofe1506_richardbarsmash';
+$password = 'Love02/09/1988';
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password, [
@@ -38,7 +38,7 @@ if (isset($_GET['random']) && $_GET['random'] === "true") {
 if (isset($_GET['search']) && !empty($_GET['search'])) {
     try {
         $searchQuery = "%" . $_GET['search'] . "%";
-        $stmt = $conn->prepare("SELECT DISTINCT name, alcoholic, flavor, instructions, image FROM cocktails WHERE LOWER(name) LIKE LOWER(?)");
+        $stmt = $conn->prepare("SELECT DISTINCT name, alcoholic, flavor, ingredients, instructions, image FROM cocktails WHERE LOWER(name) LIKE LOWER(?)");
         $stmt->execute([$searchQuery]);
         $cocktails = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
@@ -55,9 +55,10 @@ $data = json_decode(file_get_contents("php://input"), true);
 $type = isset($data['type']) ? $data['type'] : '';
 $alcohols = isset($data['alcohols']) ? $data['alcohols'] : [];
 $flavors = isset($data['flavors']) ? $data['flavors'] : [];
+$ingredients = isset($data['ingredients']) ? $data['ingredients'] : [];
 
 // 🔹 Construire la requête SQL dynamique
-$query = "SELECT DISTINCT name, alcoholic, flavor, instructions, image FROM cocktails WHERE 1=1";
+$query = "SELECT DISTINCT name, alcoholic, flavor, ingredients, instructions, image FROM cocktails WHERE 1=1";
 $params = [];
 
 // 🔹 Filtrage par type de boisson ("Alcoholic" / "Non-Alcoholic")
